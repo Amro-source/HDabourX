@@ -1,0 +1,841 @@
+Weather,Road_Type,Time_of_Day,Traffic_Density,Speed_Limit,Number_of_Vehicles,Driver_Alcohol,Accident_Severity,Road_Condition,Vehicle_Type,Driver_Age,Driver_Experience,Road_Light_Condition,Accident,Prediction
+Rainy,City Road,Morning,1.0,100.0,5.0,0.0,,Wet,Car,51.0,48.0,Artificial Light,0.0,0.2966274909621022
+Clear,Rural Road,Night,,120.0,3.0,0.0,Moderate,Wet,Truck,49.0,43.0,Artificial Light,0.0,0.24250251114318344
+Rainy,Highway,Evening,1.0,60.0,4.0,0.0,Low,Icy,Car,54.0,52.0,Artificial Light,0.0,0.3157115310240154
+Clear,City Road,Afternoon,2.0,60.0,3.0,0.0,Low,Under Construction,Bus,34.0,31.0,Daylight,0.0,0.3033446692065536
+Rainy,Highway,Morning,1.0,195.0,11.0,0.0,Low,Dry,Car,62.0,55.0,Artificial Light,1.0,0.3111441463617696
+Clear,Rural Road,Night,0.0,120.0,3.0,0.0,Moderate,,Truck,49.0,43.0,Artificial Light,0.0,0.23014546342206021
+Foggy,Highway,Afternoon,0.0,60.0,4.0,0.0,Low,Dry,Truck,27.0,26.0,Daylight,1.0,0.29607215881044646
+Rainy,City Road,Afternoon,0.0,60.0,4.0,0.0,Low,Dry,Car,29.0,22.0,Artificial Light,1.0,0.2843512331505728
+Stormy,Highway,Morning,1.0,60.0,2.0,0.0,High,Icy,Car,38.0,29.0,Artificial Light,0.0,0.2642751502910651
+Rainy,City Road,Afternoon,2.0,30.0,2.0,0.0,Low,Dry,Truck,50.0,48.0,Artificial Light,0.0,0.31901995723349846
+Foggy,,Evening,,60.0,2.0,0.0,Moderate,Dry,Car,33.0,28.0,Artificial Light,,0.27083251568286676
+Clear,Mountain Road,Night,2.0,100.0,5.0,0.0,Low,Dry,Motorcycle,47.0,38.0,Artificial Light,1.0,0.29516660988921944
+,Rural Road,Afternoon,0.0,60.0,4.0,0.0,,Dry,Car,25.0,16.0,Artificial Light,0.0,0.2788252843253925
+Rainy,City Road,Night,0.0,30.0,1.0,1.0,Moderate,,Motorcycle,67.0,63.0,Artificial Light,1.0,0.3300388360991636
+Clear,Rural Road,Morning,0.0,,1.0,0.0,Low,,Car,61.0,57.0,Artificial Light,0.0,0.2458072632569685
+Clear,Rural Road,Night,0.0,60.0,5.0,0.0,Low,Wet,Truck,46.0,,Artificial Light,0.0,0.3059108863250649
+Rainy,City Road,,0.0,60.0,5.0,0.0,Moderate,Wet,Car,48.0,41.0,Daylight,0.0,0.30664362555026886
+Snowy,,Afternoon,1.0,100.0,3.0,0.0,,Under Construction,Motorcycle,53.0,,Artificial Light,0.0,0.24312031498492187
+Foggy,City Road,Night,1.0,60.0,3.0,0.0,Moderate,Wet,Motorcycle,35.0,32.0,No Light,0.0,0.29135001004253874
+Clear,City Road,Afternoon,1.0,50.0,1.0,0.0,Moderate,Dry,Car,59.0,53.0,Daylight,1.0,0.26998581018813356
+Clear,City Road,Morning,2.0,60.0,2.0,0.0,Low,Dry,Car,27.0,23.0,Daylight,0.0,0.28314622320993466
+Foggy,Rural Road,Evening,0.0,100.0,5.0,0.0,Moderate,Icy,Car,32.0,24.0,,0.0,0.2673487305810885
+Clear,Highway,Morning,0.0,30.0,1.0,0.0,Low,Dry,Car,53.0,47.0,Daylight,0.0,0.2714001904867465
+Rainy,Rural Road,Afternoon,0.0,30.0,4.0,1.0,Low,Under Construction,,69.0,64.0,Daylight,0.0,0.3757661243692071
+Rainy,Highway,Morning,1.0,50.0,3.0,0.0,Low,,Car,68.0,60.0,Daylight,1.0,0.3003715732772253
+Rainy,Highway,Afternoon,0.0,100.0,3.0,0.0,High,Wet,Car,28.0,25.0,Artificial Light,0.0,0.24490496781436244
+Foggy,Rural Road,Morning,1.0,60.0,2.0,1.0,Moderate,Under Construction,Car,40.0,38.0,Artificial Light,1.0,0.32909636382752727
+,City Road,Evening,0.0,100.0,2.0,0.0,Low,Dry,Car,30.0,23.0,Artificial Light,0.0,0.22162144231104505
+Stormy,,Afternoon,2.0,80.0,3.0,0.0,Moderate,Under Construction,Truck,60.0,57.0,Daylight,1.0,0.2965271651366171
+Clear,City Road,Afternoon,1.0,80.0,,0.0,Moderate,Under Construction,,66.0,65.0,Artificial Light,0.0,0.2949110121174531
+Rainy,Highway,Morning,1.0,80.0,1.0,0.0,Low,Dry,Car,,24.0,No Light,0.0,0.21333338461274245
+,Highway,Afternoon,1.0,30.0,5.0,0.0,Moderate,Dry,Car,63.0,55.0,Artificial Light,1.0,0.34587617258467235
+Foggy,Highway,Night,0.0,100.0,1.0,0.0,Low,Under Construction,Car,59.0,57.0,Artificial Light,0.0,0.22632699275968232
+Clear,Highway,Morning,1.0,60.0,3.0,0.0,Low,Icy,Car,65.0,57.0,Artificial Light,1.0,0.2914120545957801
+Rainy,Mountain Road,Afternoon,1.0,60.0,1.0,0.0,Low,Dry,Car,18.0,13.0,No Light,0.0,0.24991234930308637
+Stormy,Highway,Morning,1.0,,5.0,,Moderate,Dry,Car,33.0,31.0,Daylight,0.0,0.3233395508728848
+Clear,City Road,Evening,2.0,50.0,5.0,1.0,Low,Dry,Car,55.0,52.0,,0.0,0.39959398201248364
+Rainy,Highway,Evening,0.0,120.0,5.0,0.0,High,Dry,Car,38.0,,Artificial Light,0.0,0.2721760320446864
+Clear,Highway,Morning,2.0,100.0,5.0,0.0,Low,Under Construction,Car,46.0,,Daylight,1.0,0.29891905074298136
+Clear,City Road,Night,0.0,,4.0,0.0,High,Icy,Car,33.0,25.0,Artificial Light,1.0,0.2749194783195262
+Rainy,,Night,1.0,50.0,5.0,0.0,Low,Under Construction,Truck,45.0,36.0,Daylight,1.0,0.3217249316551438
+Clear,Highway,Morning,0.0,60.0,5.0,0.0,Low,Under Construction,Car,40.0,37.0,Artificial Light,0.0,0.31214475655415264
+Foggy,Highway,Night,0.0,60.0,5.0,0.0,Low,Dry,Car,69.0,63.0,Daylight,0.0,0.3159981353555503
+Snowy,,Evening,2.0,50.0,5.0,1.0,Moderate,Dry,Car,33.0,32.0,Artificial Light,0.0,0.39609993503713903
+Foggy,Highway,Evening,0.0,60.0,1.0,1.0,Low,Wet,Car,22.0,21.0,Daylight,0.0,0.29687844084559684
+Rainy,Mountain Road,Afternoon,0.0,60.0,5.0,1.0,High,Dry,Bus,26.0,25.0,Daylight,0.0,0.36106956053523526
+Clear,Highway,Night,1.0,30.0,1.0,0.0,Low,Wet,Car,59.0,54.0,Artificial Light,0.0,0.28789243864037556
+Clear,Highway,Night,1.0,30.0,1.0,1.0,Moderate,Dry,Car,58.0,,Daylight,1.0,0.30818228981883755
+Clear,City Road,Afternoon,1.0,60.0,5.0,0.0,Low,Dry,Truck,23.0,14.0,Daylight,0.0,0.3061738775810074
+Clear,Highway,Evening,0.0,50.0,2.0,1.0,Low,Dry,Truck,,,Artificial Light,0.0,0.32109041231152236
+Rainy,City Road,Morning,0.0,60.0,4.0,1.0,Low,Dry,Car,,48.0,Artificial Light,0.0,0.3632344270207205
+Clear,Highway,Evening,0.0,80.0,5.0,0.0,Moderate,Wet,Car,57.0,55.0,Daylight,1.0,0.30427407482735336
+Clear,Highway,Morning,0.0,60.0,4.0,0.0,Low,Dry,Car,26.0,25.0,Artificial Light,0.0,0.2957252358950417
+Clear,Highway,,2.0,60.0,5.0,0.0,Low,Dry,Truck,34.0,25.0,Artificial Light,1.0,0.32233161172987995
+Snowy,City Road,Morning,2.0,80.0,1.0,0.0,Low,Wet,Truck,27.0,19.0,,0.0,0.2433313520053462
+Rainy,City Road,Afternoon,2.0,100.0,3.0,0.0,Low,Dry,Car,57.0,49.0,,0.0,0.26930325361103846
+Foggy,Highway,Afternoon,1.0,50.0,5.0,0.0,Low,Icy,Car,43.0,39.0,Artificial Light,1.0,0.3313767287332369
+Rainy,Mountain Road,Evening,0.0,50.0,4.0,,Low,Wet,Car,41.0,41.0,Daylight,,0.3188798201193758
+Rainy,Highway,Afternoon,0.0,100.0,4.0,1.0,Moderate,Dry,Car,23.0,16.0,Artificial Light,0.0,0.3002381635504098
+Foggy,Highway,Evening,2.0,100.0,5.0,1.0,Low,Dry,Car,64.0,55.0,Daylight,1.0,0.3507077670842899
+Clear,Highway,Morning,0.0,,5.0,0.0,Moderate,Wet,Car,45.0,41.0,Artificial Light,0.0,0.30305992463851084
+Rainy,,Evening,1.0,50.0,2.0,0.0,Moderate,Under Construction,Car,67.0,58.0,No Light,0.0,0.2822546647730351
+Rainy,City Road,Afternoon,1.0,200.0,12.0,,Moderate,Icy,Car,54.0,53.0,Artificial Light,0.0,0.34048787854485474
+Clear,Highway,Evening,2.0,120.0,5.0,,Low,Under Construction,Car,42.0,39.0,No Light,0.0,0.29797212890866803
+Clear,City Road,Morning,2.0,50.0,1.0,0.0,Low,Dry,Car,67.0,66.0,Artificial Light,0.0,0.29544841849969444
+Clear,Highway,Afternoon,1.0,80.0,3.0,1.0,Low,Dry,Car,56.0,48.0,No Light,0.0,0.3220957161198642
+Foggy,Rural Road,Morning,0.0,80.0,4.0,0.0,Low,Dry,Motorcycle,40.0,32.0,Daylight,0.0,0.2702607567677836
+Rainy,Highway,Night,1.0,30.0,1.0,0.0,Low,Dry,Car,54.0,54.0,Daylight,0.0,0.29650346697225427
+Clear,Highway,Afternoon,2.0,80.0,3.0,0.0,Low,Dry,Car,52.0,43.0,Artificial Light,0.0,0.28133701032269537
+Clear,Highway,Evening,2.0,,4.0,0.0,Moderate,Wet,Car,44.0,37.0,Daylight,0.0,0.305487923129599
+,Mountain Road,Evening,,206.0,13.0,0.0,Low,Icy,Motorcycle,20.0,17.0,,0.0,0.3275564529688494
+Foggy,Highway,Evening,2.0,30.0,5.0,0.0,High,Wet,Car,35.0,26.0,Artificial Light,1.0,0.346434784450977
+Rainy,Highway,Afternoon,0.0,120.0,3.0,,Moderate,Dry,Truck,,39.0,Artificial Light,1.0,0.2397183075093684
+Clear,City Road,Evening,1.0,80.0,3.0,0.0,Moderate,Icy,Car,35.0,31.0,,0.0,0.2734433815902967
+Snowy,Highway,Morning,2.0,60.0,4.0,0.0,Low,Wet,Car,50.0,43.0,Daylight,1.0,0.3163197785329131
+Rainy,Highway,Afternoon,0.0,60.0,4.0,0.0,Low,Under Construction,Car,65.0,60.0,Daylight,0.0,0.30097871526870684
+Clear,Highway,Afternoon,1.0,50.0,3.0,0.0,Moderate,,Motorcycle,41.0,38.0,Daylight,1.0,0.3013502974701983
+Rainy,Rural Road,Afternoon,0.0,60.0,2.0,0.0,Moderate,Under Construction,Car,59.0,53.0,Daylight,0.0,0.2654263351804879
+Clear,Highway,Morning,2.0,50.0,3.0,0.0,Low,Icy,Car,24.0,21.0,Artificial Light,0.0,0.30779418998773633
+,Highway,Night,1.0,30.0,,0.0,Low,Wet,Car,59.0,54.0,Artificial Light,0.0,0.323799787058651
+,Highway,Evening,0.0,30.0,5.0,0.0,Moderate,Dry,Car,65.0,59.0,Daylight,1.0,0.33836669349962334
+Clear,Highway,Afternoon,2.0,80.0,2.0,,Low,Wet,Car,19.0,19.0,Daylight,0.0,0.28077271631960776
+Rainy,Highway,Evening,0.0,100.0,2.0,0.0,Low,Icy,Truck,37.0,29.0,Daylight,1.0,0.22198077413709816
+Rainy,Highway,Afternoon,0.0,60.0,2.0,0.0,Low,Dry,Car,26.0,23.0,Artificial Light,0.0,0.260185264717471
+Rainy,City Road,Afternoon,0.0,80.0,4.0,0.0,High,,Car,22.0,,Artificial Light,0.0,0.3157054654406164
+Foggy,Rural Road,Morning,0.0,30.0,3.0,0.0,High,Dry,Car,42.0,42.0,Artificial Light,0.0,0.3114005239219865
+Clear,Highway,Evening,0.0,80.0,2.0,0.0,Low,Icy,Car,69.0,64.0,Artificial Light,1.0,0.255127193045855
+Snowy,Highway,Night,2.0,50.0,4.0,0.0,High,Dry,Bus,21.0,14.0,Daylight,0.0,0.3141777639214045
+Clear,Highway,Evening,2.0,60.0,5.0,1.0,Moderate,Icy,Car,68.0,65.0,Artificial Light,0.0,0.3961852299775154
+Clear,City Road,Night,2.0,80.0,1.0,0.0,Low,Dry,Car,55.0,46.0,No Light,0.0,0.25097606505490017
+Clear,City Road,Afternoon,2.0,60.0,4.0,0.0,High,Wet,,41.0,41.0,Artificial Light,1.0,0.32768137236673367
+Clear,Highway,Evening,0.0,,2.0,1.0,Moderate,Dry,Truck,39.0,37.0,Artificial Light,1.0,0.30765754092181746
+Foggy,Mountain Road,Evening,2.0,50.0,2.0,0.0,High,Icy,Truck,21.0,18.0,No Light,0.0,0.29105256423451714
+Clear,Mountain Road,Afternoon,0.0,60.0,1.0,0.0,Low,Dry,Bus,65.0,57.0,Artificial Light,0.0,0.24766875850235084
+Snowy,Mountain Road,Morning,0.0,50.0,4.0,0.0,Low,Icy,Car,55.0,52.0,No Light,0.0,0.30956649321345064
+Clear,Mountain Road,Afternoon,1.0,100.0,2.0,0.0,Low,Dry,,28.0,26.0,Artificial Light,1.0,0.2436148214685579
+Snowy,Highway,Afternoon,2.0,50.0,5.0,0.0,Low,Under Construction,Motorcycle,30.0,21.0,Artificial Light,0.0,0.32886267000349145
+Clear,Highway,Night,2.0,60.0,2.0,1.0,Low,Dry,Bus,65.0,57.0,Artificial Light,1.0,0.33769624730138387
+Rainy,Highway,Afternoon,2.0,80.0,3.0,1.0,Low,Dry,Motorcycle,62.0,60.0,Daylight,1.0,0.348933607182396
+Clear,Highway,Afternoon,1.0,50.0,3.0,0.0,Moderate,Dry,Car,24.0,22.0,Artificial Light,0.0,0.29752173649009717
+Foggy,City Road,Morning,1.0,30.0,4.0,0.0,,Icy,Car,68.0,61.0,Daylight,0.0,0.3339790587364721
+Clear,City Road,Evening,1.0,80.0,2.0,0.0,Low,Dry,,19.0,13.0,Artificial Light,0.0,0.24805350077325394
+Rainy,City Road,Afternoon,1.0,30.0,5.0,1.0,Moderate,Icy,Car,54.0,53.0,Artificial Light,0.0,0.4068812340516817
+Rainy,City Road,Afternoon,1.0,178.0,12.0,0.0,Moderate,Wet,Car,67.0,59.0,Daylight,1.0,0.33997236425391014
+Rainy,Highway,Afternoon,0.0,60.0,1.0,0.0,Low,Under Construction,Car,34.0,30.0,Daylight,0.0,0.24519066245192406
+Foggy,Highway,Morning,1.0,100.0,2.0,1.0,Low,Dry,,61.0,60.0,No Light,,0.30677587389188576
+Clear,City Road,Afternoon,1.0,100.0,5.0,0.0,Moderate,Icy,Car,34.0,26.0,Artificial Light,0.0,0.2803841584913178
+Rainy,Highway,Morning,1.0,60.0,5.0,0.0,Moderate,Under Construction,Car,25.0,,Artificial Light,1.0,0.3544187873983752
+Rainy,Highway,Evening,2.0,60.0,2.0,1.0,Low,Under Construction,Car,,38.0,Artificial Light,1.0,0.3358245913477449
+Clear,City Road,Morning,1.0,120.0,1.0,0.0,Moderate,Wet,Car,65.0,58.0,Artificial Light,,0.21456696955216664
+Rainy,City Road,Afternoon,1.0,60.0,2.0,0.0,High,Dry,Motorcycle,21.0,19.0,Daylight,0.0,0.2728613608016472
+Snowy,Rural Road,Afternoon,1.0,60.0,1.0,0.0,High,Dry,Car,43.0,42.0,Artificial Light,1.0,0.26686193651532863
+Rainy,,Morning,2.0,30.0,2.0,0.0,Low,Icy,Car,52.0,51.0,Daylight,0.0,0.3217829316460886
+Snowy,Rural Road,Evening,1.0,50.0,5.0,0.0,Low,Wet,Motorcycle,64.0,56.0,No Light,0.0,0.33038559562961567
+Foggy,City Road,Morning,0.0,100.0,1.0,0.0,Low,Dry,Truck,34.0,34.0,Artificial Light,,0.2217921770381233
+Clear,Rural Road,Afternoon,1.0,60.0,1.0,0.0,Low,Icy,Car,60.0,56.0,Daylight,0.0,0.2665522403318687
+Clear,City Road,Morning,0.0,80.0,1.0,0.0,Low,Wet,Motorcycle,50.0,42.0,No Light,0.0,0.22662741490081728
+Rainy,Mountain Road,Afternoon,1.0,60.0,1.0,0.0,Low,Dry,Car,18.0,,No Light,0.0,0.30367079903498617
+Clear,Rural Road,Morning,2.0,60.0,2.0,,Moderate,Dry,Car,,10.0,Daylight,1.0,0.23620838540095163
+Rainy,Rural Road,Morning,1.0,60.0,4.0,,Low,Dry,Car,33.0,30.0,No Light,0.0,0.3143198831949848
+Foggy,City Road,Afternoon,1.0,80.0,5.0,0.0,,Wet,Car,34.0,,Artificial Light,0.0,0.32308143653053206
+Rainy,Highway,Evening,0.0,60.0,3.0,0.0,Low,Icy,Car,,13.0,Artificial Light,0.0,0.2254706020182078
+Clear,City Road,Morning,1.0,60.0,3.0,0.0,Low,Wet,Car,32.0,27.0,Daylight,0.0,0.2861709841327632
+,,,1.0,208.0,11.0,0.0,Low,Icy,Motorcycle,52.0,50.0,Artificial Light,0.0,0.30772618520082434
+Clear,City Road,Afternoon,2.0,50.0,5.0,1.0,Low,Dry,Car,36.0,33.0,Daylight,1.0,0.39300244661979233
+Clear,City Road,Morning,0.0,80.0,1.0,0.0,Moderate,Dry,Motorcycle,36.0,36.0,Artificial Light,1.0,0.2383235227393944
+Clear,Highway,Afternoon,1.0,50.0,5.0,0.0,Moderate,Dry,Car,27.0,20.0,Artificial Light,1.0,0.31961857634141844
+Snowy,City Road,Night,0.0,60.0,3.0,0.0,Moderate,Dry,Car,45.0,43.0,Daylight,0.0,0.2845467856989476
+,Rural Road,Night,1.0,80.0,4.0,0.0,Low,Wet,Car,68.0,67.0,Daylight,0.0,0.3068000805510017
+Rainy,Highway,Morning,0.0,60.0,4.0,0.0,Moderate,Dry,Car,69.0,69.0,No Light,1.0,0.3127120498392288
+Clear,City Road,,0.0,50.0,1.0,0.0,Moderate,Under Construction,Car,43.0,40.0,Artificial Light,0.0,0.2583008472075786
+Snowy,City Road,Night,1.0,100.0,3.0,0.0,High,Dry,Bus,33.0,25.0,Artificial Light,0.0,0.24863552156190344
+Clear,Highway,Evening,0.0,120.0,5.0,0.0,Moderate,Under Construction,Truck,53.0,53.0,,0.0,0.2753496405883723
+Clear,City Road,Morning,2.0,50.0,1.0,0.0,Low,Dry,Car,62.0,53.0,Artificial Light,1.0,0.27716077526842603
+Clear,Highway,Afternoon,2.0,50.0,1.0,0.0,Low,Under Construction,Truck,60.0,52.0,Artificial Light,0.0,0.27853605801939696
+Foggy,Highway,Evening,1.0,100.0,,0.0,Moderate,Wet,Car,25.0,,Artificial Light,0.0,0.29584770804770844
+Rainy,Rural Road,Afternoon,2.0,60.0,1.0,0.0,Moderate,Dry,Car,30.0,27.0,Daylight,,0.27055526353092485
+Clear,Highway,Afternoon,2.0,60.0,4.0,0.0,Low,Wet,Car,62.0,61.0,,0.0,0.33289762500845405
+Foggy,City Road,Afternoon,0.0,100.0,4.0,0.0,High,Dry,Truck,63.0,62.0,Artificial Light,1.0,0.2768863840240965
+Rainy,City Road,Night,2.0,50.0,2.0,,Moderate,Under Construction,Motorcycle,30.0,25.0,Daylight,0.0,0.2979994752858501
+Clear,City Road,Night,1.0,60.0,1.0,,Low,Dry,Car,54.0,54.0,No Light,1.0,0.2807100791428129
+Snowy,Highway,Afternoon,2.0,50.0,5.0,0.0,Low,Icy,Truck,58.0,55.0,Daylight,0.0,0.35099128312550926
+Snowy,Highway,,,60.0,4.0,0.0,,Dry,Truck,48.0,44.0,No Light,1.0,0.309507202009729
+Rainy,Rural Road,Afternoon,0.0,80.0,2.0,0.0,Low,Dry,Car,45.0,39.0,Artificial Light,0.0,0.24473191449435916
+Clear,Rural Road,Evening,2.0,80.0,2.0,0.0,,Dry,Car,35.0,31.0,Daylight,0.0,0.2700841066627116
+,Highway,Evening,2.0,50.0,3.0,0.0,Low,Wet,Car,64.0,55.0,No Light,0.0,0.30925633511324524
+Stormy,City Road,Evening,2.0,60.0,2.0,1.0,High,Dry,Truck,65.0,57.0,Daylight,0.0,0.33769624730138387
+Clear,City Road,Evening,1.0,30.0,4.0,1.0,Moderate,Dry,Car,42.0,36.0,Artificial Light,0.0,0.37667165915091655
+Clear,Rural Road,Morning,0.0,60.0,2.0,0.0,Low,Icy,Car,68.0,61.0,No Light,0.0,0.2664795128373506
+Rainy,Highway,,2.0,60.0,1.0,0.0,Low,,Car,46.0,,Artificial Light,0.0,0.26779062245588514
+,Highway,Morning,1.0,80.0,3.0,0.0,Low,Dry,Car,30.0,27.0,Daylight,1.0,0.2737778955950532
+Rainy,Highway,Morning,1.0,80.0,1.0,1.0,Low,Wet,Car,47.0,39.0,Daylight,0.0,0.2875716958672114
+Snowy,Rural Road,Evening,0.0,80.0,1.0,0.0,,Dry,Car,58.0,52.0,Daylight,0.0,0.23354105538761682
+Rainy,Highway,Morning,,30.0,2.0,0.0,High,Under Construction,Car,44.0,43.0,Daylight,1.0,0.306681431885134
+Clear,Highway,Evening,2.0,80.0,1.0,0.0,Low,,,48.0,44.0,No Light,1.0,0.25889324755596926
+,Highway,Afternoon,2.0,,4.0,0.0,Low,Icy,Truck,26.0,26.0,Artificial Light,0.0,0.31372721072477633
+Clear,Highway,Evening,1.0,100.0,2.0,0.0,Moderate,Dry,,68.0,60.0,Artificial Light,0.0,0.2450769665940668
+Rainy,City Road,Morning,1.0,100.0,1.0,0.0,Low,Wet,Car,18.0,10.0,Artificial Light,0.0,0.21202996381682176
+Clear,Rural Road,Night,1.0,50.0,2.0,1.0,Low,Dry,Car,27.0,26.0,Artificial Light,1.0,0.33457424444427614
+,Mountain Road,Night,2.0,80.0,3.0,0.0,Low,,Motorcycle,23.0,,Artificial Light,0.0,0.3229655669260753
+Foggy,City Road,Morning,1.0,50.0,5.0,0.0,Low,Wet,Car,,12.0,Artificial Light,,0.2750635194650873
+Rainy,Highway,Evening,,100.0,3.0,0.0,Low,,Car,41.0,33.0,Artificial Light,1.0,0.2514263705268454
+Rainy,Highway,Morning,1.0,60.0,1.0,0.0,Low,Dry,Car,32.0,29.0,Daylight,0.0,0.2589075272823147
+Clear,Highway,,1.0,50.0,2.0,0.0,,Dry,Car,28.0,19.0,Daylight,1.0,0.26872467107224773
+Clear,City Road,Afternoon,0.0,213.0,11.0,0.0,Low,Dry,Motorcycle,65.0,56.0,Daylight,1.0,0.28145132598158795
+Rainy,Rural Road,Evening,2.0,50.0,4.0,0.0,Low,Dry,Car,46.0,42.0,Artificial Light,0.0,0.3290582225518663
+Clear,,Morning,2.0,60.0,2.0,0.0,Low,Icy,Car,28.0,22.0,Artificial Light,1.0,0.27935488896177835
+Rainy,Highway,Evening,0.0,60.0,3.0,0.0,Low,Wet,Car,65.0,59.0,Artificial Light,0.0,0.2832087296799215
+Foggy,Highway,Morning,,80.0,2.0,,Moderate,Dry,Car,35.0,34.0,Artificial Light,1.0,0.27192823794658794
+Foggy,Highway,Afternoon,1.0,80.0,3.0,0.0,Moderate,Dry,Car,,26.0,No Light,0.0,0.24887335579031314
+Rainy,Highway,Evening,1.0,30.0,1.0,0.0,Low,Dry,Car,25.0,18.0,Daylight,0.0,0.27195880235305114
+Clear,,Morning,0.0,30.0,3.0,0.0,Low,Dry,Car,21.0,13.0,No Light,1.0,0.28756211404424126
+Rainy,Highway,Evening,2.0,30.0,2.0,1.0,Low,Wet,Car,69.0,63.0,Daylight,0.0,0.36697844593225637
+Rainy,Highway,Night,0.0,120.0,3.0,0.0,Moderate,Dry,Motorcycle,20.0,19.0,,0.0,0.23043034178422359
+Rainy,Highway,Night,,120.0,5.0,0.0,Moderate,Under Construction,Car,64.0,58.0,Artificial Light,0.0,0.2791080688882651
+Clear,Highway,Evening,2.0,80.0,2.0,0.0,Moderate,Dry,Car,52.0,45.0,Daylight,0.0,0.26977441047925166
+Clear,Rural Road,Evening,1.0,60.0,5.0,0.0,Moderate,Dry,Truck,37.0,33.0,Daylight,1.0,0.3213764413055774
+Clear,Rural Road,Afternoon,,80.0,,0.0,Low,Dry,Motorcycle,56.0,53.0,Daylight,0.0,0.2873189914415475
+Foggy,Highway,Evening,0.0,60.0,2.0,0.0,Moderate,Dry,,62.0,53.0,Artificial Light,0.0,0.2602597181813607
+Clear,Highway,Afternoon,0.0,100.0,2.0,0.0,Low,Dry,Car,,22.0,Daylight,0.0,0.19671690250630497
+Clear,Rural Road,Afternoon,1.0,50.0,1.0,0.0,Low,Dry,Car,29.0,22.0,No Light,1.0,0.25750899414420886
+Rainy,City Road,Afternoon,2.0,60.0,3.0,0.0,Low,Dry,Car,37.0,30.0,Artificial Light,0.0,0.29610892362564584
+Rainy,Highway,Afternoon,0.0,80.0,4.0,0.0,High,Dry,Car,42.0,34.0,,1.0,0.2709546025985932
+Clear,,Morning,1.0,100.0,5.0,0.0,Low,Wet,Truck,69.0,61.0,Daylight,0.0,0.292526460530486
+Clear,City Road,Afternoon,,50.0,4.0,0.0,Moderate,Dry,Car,49.0,47.0,Daylight,0.0,0.32191113202392563
+Clear,Highway,Morning,0.0,60.0,4.0,1.0,High,Wet,Truck,36.0,27.0,Daylight,0.0,0.3322849040280341
+Rainy,City Road,Evening,2.0,120.0,3.0,0.0,,Dry,Car,24.0,,Daylight,0.0,0.28956836151877663
+,Highway,Morning,2.0,80.0,5.0,,Moderate,Wet,Car,57.0,54.0,Daylight,1.0,0.3348509723806631
+Snowy,Highway,Night,0.0,50.0,2.0,1.0,,Dry,Car,60.0,54.0,Artificial Light,0.0,0.3233354756643122
+Clear,Highway,Night,0.0,60.0,5.0,0.0,Moderate,Dry,Truck,36.0,31.0,Daylight,1.0,0.3066188077289723
+Clear,Highway,Evening,0.0,60.0,2.0,1.0,Low,Wet,,52.0,50.0,Daylight,0.0,0.32091785673296525
+Clear,City Road,Morning,2.0,30.0,3.0,0.0,High,Dry,Car,47.0,38.0,Artificial Light,0.0,0.31919614542182506
+Snowy,Highway,Morning,0.0,30.0,1.0,,Moderate,Wet,Motorcycle,24.0,15.0,Artificial Light,0.0,0.26309490217091636
+Clear,Rural Road,Afternoon,2.0,30.0,1.0,0.0,Low,Wet,Truck,53.0,50.0,Daylight,1.0,0.30229074039092757
+Clear,City Road,Afternoon,2.0,100.0,,0.0,Low,Icy,Car,50.0,43.0,Artificial Light,1.0,0.27344955618925115
+Clear,City Road,Afternoon,,60.0,1.0,1.0,High,Icy,Bus,41.0,35.0,Daylight,1.0,0.30548138105050865
+Clear,Highway,Morning,2.0,60.0,3.0,0.0,Moderate,Dry,Motorcycle,56.0,51.0,Artificial Light,0.0,0.30683871618189823
+Clear,,Afternoon,1.0,60.0,5.0,0.0,Low,Dry,Car,50.0,41.0,Artificial Light,0.0,0.3155407962969371
+Rainy,Highway,Evening,2.0,80.0,2.0,0.0,High,Dry,Motorcycle,52.0,46.0,Daylight,0.0,0.2718435390610322
+Clear,City Road,,2.0,50.0,2.0,0.0,Low,Icy,Car,34.0,26.0,Artificial Light,0.0,0.28521691922587683
+,Highway,Morning,0.0,60.0,3.0,,Low,Wet,Car,20.0,17.0,Artificial Light,0.0,0.2817674462082978
+Clear,,Morning,2.0,100.0,1.0,,Low,Dry,Car,37.0,31.0,Artificial Light,1.0,0.2430642004287447
+Clear,Highway,Evening,1.0,,3.0,0.0,Low,Dry,Car,28.0,23.0,Artificial Light,1.0,0.2760329745602587
+Rainy,Highway,Afternoon,1.0,60.0,2.0,0.0,Low,Dry,Car,35.0,27.0,Daylight,0.0,0.2653035101266312
+,Highway,Evening,2.0,,3.0,0.0,Moderate,Dry,Truck,48.0,40.0,Daylight,0.0,0.2891056292024329
+Rainy,Highway,Evening,2.0,60.0,3.0,0.0,Low,Under Construction,Car,46.0,41.0,,0.0,0.3033694870278502
+Stormy,City Road,Evening,0.0,190.0,14.0,1.0,High,Dry,Car,69.0,62.0,Artificial Light,1.0,0.4019364383120021
+Foggy,City Road,Morning,,60.0,4.0,0.0,Low,Wet,Car,51.0,43.0,Daylight,1.0,0.3022714564288212
+Rainy,Highway,Morning,0.0,60.0,,0.0,Low,Dry,,68.0,,Artificial Light,0.0,0.2411262820550548
+Snowy,,Afternoon,0.0,80.0,5.0,0.0,Low,Wet,Car,45.0,41.0,Artificial Light,1.0,0.29597274267893464
+Clear,Highway,Afternoon,0.0,60.0,4.0,0.0,High,Icy,Car,19.0,15.0,Artificial Light,0.0,0.2870893897418664
+Rainy,City Road,Night,2.0,100.0,3.0,0.0,Moderate,Under Construction,Car,44.0,37.0,Daylight,0.0,0.26686238429255654
+,City Road,Morning,0.0,,5.0,0.0,Low,Dry,Car,65.0,63.0,No Light,0.0,0.314136640110168
+Rainy,Highway,Evening,1.0,196.0,11.0,0.0,Moderate,Icy,Car,38.0,32.0,Daylight,0.0,0.3040952499803118
+Clear,City Road,,2.0,60.0,1.0,1.0,Moderate,Dry,Car,34.0,31.0,Artificial Light,1.0,0.32158642282573285
+Clear,Highway,Night,0.0,60.0,1.0,0.0,Low,Icy,Car,31.0,22.0,Artificial Light,0.0,0.23380425079680695
+Rainy,City Road,Evening,1.0,80.0,1.0,0.0,Low,Wet,Car,33.0,33.0,Daylight,0.0,0.24962433607259968
+Rainy,Highway,Afternoon,1.0,,4.0,0.0,High,Dry,Car,18.0,11.0,Artificial Light,0.0,0.28412634524965436
+Clear,Highway,Morning,0.0,100.0,4.0,0.0,Low,Icy,,50.0,50.0,Daylight,0.0,0.27444551470561457
+Stormy,Rural Road,Evening,1.0,80.0,2.0,0.0,Low,Icy,Car,21.0,14.0,,1.0,0.246678218022283
+Clear,Rural Road,Afternoon,1.0,50.0,3.0,0.0,Low,Dry,Motorcycle,35.0,34.0,Artificial Light,0.0,0.30340701714133056
+Clear,Rural Road,Evening,2.0,80.0,,1.0,Low,Wet,Car,18.0,15.0,Artificial Light,0.0,0.33610550472706985
+Clear,Highway,Morning,1.0,80.0,1.0,0.0,Moderate,Icy,Car,45.0,36.0,No Light,0.0,0.23516525382143244
+Rainy,City Road,Morning,,30.0,4.0,1.0,Low,Dry,Car,69.0,62.0,Daylight,1.0,0.3839849149267692
+Foggy,Highway,Afternoon,0.0,50.0,2.0,0.0,Low,Dry,Car,69.0,63.0,Daylight,0.0,0.27681431426976666
+Foggy,City Road,Night,1.0,80.0,5.0,0.0,Low,Wet,Motorcycle,43.0,,Artificial Light,0.0,0.30758158553315035
+,Highway,Night,1.0,60.0,2.0,0.0,Low,Icy,Car,24.0,17.0,Daylight,,0.2635564866389589
+Snowy,City Road,Afternoon,1.0,50.0,3.0,0.0,Low,,Car,56.0,54.0,No Light,0.0,0.30862326978305094
+Foggy,City Road,Night,0.0,188.0,10.0,1.0,Low,Icy,Car,33.0,27.0,Artificial Light,0.0,0.33029666389823664
+Clear,Highway,Night,2.0,80.0,1.0,0.0,High,Icy,Car,46.0,41.0,Daylight,0.0,0.2561302731433791
+Clear,Highway,Evening,2.0,100.0,4.0,0.0,Moderate,Icy,Truck,52.0,43.0,Daylight,0.0,0.28120036745923865
+Foggy,Highway,Afternoon,0.0,80.0,4.0,0.0,Moderate,Icy,Motorcycle,32.0,,Artificial Light,0.0,0.298483408776859
+Clear,Highway,Morning,1.0,100.0,4.0,0.0,Moderate,Dry,Motorcycle,62.0,57.0,Artificial Light,1.0,0.2806045288609892
+Rainy,City Road,Morning,1.0,50.0,4.0,0.0,Low,Dry,Car,36.0,33.0,Artificial Light,0.0,0.31531653990017905
+Rainy,Highway,Afternoon,0.0,60.0,2.0,,Moderate,Dry,Truck,29.0,24.0,Daylight,0.0,0.26505063827637515
+Rainy,City Road,Evening,1.0,60.0,,0.0,Low,Icy,Car,36.0,32.0,Artificial Light,0.0,0.29413343878042875
+Rainy,Rural Road,Evening,1.0,50.0,,0.0,Moderate,Under Construction,Car,67.0,,No Light,0.0,0.26310881973608097
+Rainy,City Road,Afternoon,2.0,30.0,2.0,0.0,Low,Under Construction,Motorcycle,68.0,66.0,Daylight,0.0,0.325264569710785
+Foggy,City Road,Afternoon,2.0,30.0,3.0,0.0,Low,Dry,Car,62.0,59.0,Daylight,0.0,0.3368147606435804
+Rainy,Highway,Afternoon,2.0,100.0,3.0,0.0,High,Wet,Car,43.0,38.0,Artificial Light,0.0,0.27065371854071285
+Clear,Rural Road,Night,2.0,50.0,3.0,,Low,Icy,Car,54.0,48.0,Artificial Light,1.0,0.31995735368078965
+Clear,Highway,Morning,1.0,60.0,5.0,0.0,Low,Wet,Truck,63.0,60.0,Artificial Light,0.0,0.3324655656878829
+Stormy,Highway,Evening,1.0,195.0,14.0,0.0,Moderate,Dry,Car,46.0,38.0,No Light,0.0,0.3506268221545266
+Rainy,City Road,,2.0,100.0,1.0,1.0,Low,Dry,Motorcycle,48.0,46.0,Artificial Light,0.0,0.29683747248225767
+Clear,Rural Road,Morning,1.0,194.0,,1.0,Low,Under Construction,Truck,31.0,24.0,Artificial Light,0.0,0.22972365695915997
+Rainy,Mountain Road,Afternoon,1.0,,4.0,0.0,High,,Car,42.0,41.0,Artificial Light,0.0,0.30486726671005293
+Rainy,Rural Road,Afternoon,2.0,80.0,3.0,0.0,,Dry,Truck,33.0,33.0,Daylight,0.0,0.293367632166029
+Foggy,City Road,Evening,1.0,60.0,3.0,,Moderate,Icy,Car,59.0,51.0,Artificial Light,1.0,0.2972933790796021
+Clear,City Road,Afternoon,1.0,80.0,1.0,1.0,Low,Dry,Car,37.0,31.0,Artificial Light,0.0,0.2882407238767244
+Foggy,Highway,Evening,2.0,60.0,1.0,0.0,Low,Dry,Car,43.0,43.0,Daylight,0.0,0.28127264717652894
+Clear,Highway,Afternoon,2.0,100.0,4.0,0.0,Low,Under Construction,Truck,27.0,26.0,Daylight,0.0,0.2890803232283629
+Clear,,Morning,0.0,60.0,,0.0,Low,Wet,Car,18.0,10.0,Daylight,0.0,0.2672707298966004
+Snowy,Mountain Road,Night,0.0,50.0,5.0,0.0,,,Car,32.0,31.0,Daylight,0.0,0.321426380329706
+Clear,Highway,Afternoon,1.0,80.0,5.0,0.0,Low,Icy,Car,29.0,28.0,Artificial Light,0.0,0.3089709438572191
+Rainy,Rural Road,Morning,0.0,100.0,4.0,0.0,Low,,Car,41.0,41.0,Artificial Light,0.0,0.27132320846697133
+Clear,Highway,Evening,2.0,80.0,5.0,0.0,Low,Under Construction,Car,,53.0,,0.0,0.34848312359181716
+Rainy,City Road,Morning,2.0,80.0,1.0,0.0,Low,Under Construction,Car,46.0,43.0,Artificial Light,0.0,0.2602685303069402
+Clear,Highway,Afternoon,0.0,50.0,5.0,0.0,Moderate,Dry,Car,24.0,18.0,Daylight,0.0,0.3083053540975649
+Snowy,Rural Road,Afternoon,2.0,50.0,2.0,0.0,Moderate,Wet,Car,44.0,,Artificial Light,1.0,0.2948546407308722
+Clear,Mountain Road,Afternoon,0.0,50.0,4.0,1.0,Moderate,Dry,Motorcycle,66.0,59.0,Artificial Light,0.0,0.3547495985889701
+Foggy,City Road,Morning,,60.0,1.0,0.0,Moderate,Wet,Car,46.0,41.0,Daylight,0.0,0.2596416565761244
+Rainy,Highway,Afternoon,0.0,60.0,4.0,0.0,Low,Under Construction,Car,65.0,60.0,Daylight,0.0,0.30097871526870684
+Rainy,Highway,,0.0,60.0,3.0,0.0,Low,Dry,Car,63.0,61.0,Daylight,0.0,0.2907913981762341
+Rainy,City Road,Evening,1.0,,2.0,1.0,Low,Wet,Car,59.0,50.0,Daylight,0.0,0.31245368123686945
+Snowy,Highway,Afternoon,1.0,60.0,5.0,0.0,Low,Dry,Truck,61.0,60.0,Artificial Light,0.0,0.33590997702063435
+Clear,Highway,Evening,2.0,60.0,1.0,0.0,Moderate,Wet,Truck,50.0,45.0,Artificial Light,0.0,0.27335546467545985
+Clear,Rural Road,Afternoon,2.0,80.0,5.0,0.0,Low,Wet,Car,42.0,36.0,Artificial Light,1.0,0.3154768809279985
+Clear,Highway,Afternoon,1.0,80.0,3.0,0.0,Low,Dry,Car,24.0,24.0,Daylight,0.0,0.277903743847966
+Stormy,Highway,Morning,1.0,50.0,2.0,0.0,Low,Dry,,23.0,14.0,Daylight,0.0,0.2669900564952237
+Clear,Highway,Morning,1.0,100.0,5.0,0.0,Low,Icy,,21.0,21.0,Artificial Light,0.0,0.2924271892452997
+Snowy,Highway,Morning,2.0,60.0,4.0,0.0,Low,Wet,Car,50.0,43.0,Daylight,1.0,0.3163197785329131
+Rainy,City Road,Morning,0.0,50.0,3.0,0.0,High,Icy,Motorcycle,58.0,49.0,Artificial Light,0.0,0.282491633461977
+Rainy,Rural Road,Evening,0.0,120.0,5.0,1.0,Moderate,Wet,Car,38.0,30.0,Artificial Light,0.0,0.30323623583624465
+Foggy,Highway,Afternoon,,50.0,4.0,1.0,Moderate,Dry,Car,43.0,41.0,,0.0,0.36947306216468556
+Clear,Highway,Afternoon,0.0,60.0,4.0,0.0,High,Icy,Car,19.0,15.0,Artificial Light,,0.2870893897418664
+Foggy,City Road,Afternoon,2.0,50.0,5.0,0.0,High,Wet,Car,26.0,17.0,Artificial Light,0.0,0.3274749783418722
+Snowy,Rural Road,Morning,1.0,50.0,1.0,0.0,High,Dry,Car,25.0,23.0,Artificial Light,,0.2664669453914924
+Clear,City Road,Evening,1.0,120.0,4.0,0.0,Low,Dry,Car,38.0,37.0,Artificial Light,1.0,0.2647173933479346
+Snowy,Highway,Night,1.0,50.0,5.0,0.0,High,Dry,Car,20.0,,Artificial Light,1.0,0.3709485656654846
+Clear,Highway,Morning,2.0,100.0,2.0,0.0,Low,Dry,Car,48.0,43.0,Daylight,0.0,0.25668747611073206
+Rainy,Mountain Road,Morning,2.0,30.0,5.0,0.0,Low,Dry,Car,30.0,28.0,Artificial Light,0.0,0.3591840699464168
+Clear,Highway,,1.0,50.0,5.0,0.0,Low,Dry,Car,46.0,37.0,No Light,0.0,0.32207185457054865
+,Mountain Road,Evening,2.0,50.0,4.0,0.0,Moderate,Under Construction,Car,18.0,17.0,Daylight,1.0,0.3255517666658734
+Rainy,Highway,Afternoon,0.0,80.0,5.0,0.0,Low,Dry,Motorcycle,24.0,23.0,Daylight,0.0,0.29489474720077535
+Clear,Highway,Evening,2.0,60.0,5.0,0.0,Low,,Car,52.0,52.0,Daylight,0.0,0.3471983814431914
+Clear,Rural Road,Morning,1.0,30.0,1.0,0.0,Low,Dry,Car,21.0,21.0,Artificial Light,0.0,0.2850550107638957
+Clear,Highway,Evening,0.0,100.0,4.0,1.0,Moderate,Wet,Car,33.0,26.0,Artificial Light,0.0,0.30370739270445785
+Clear,Highway,,2.0,60.0,4.0,1.0,Low,Icy,Car,19.0,11.0,Artificial Light,0.0,0.35313950720677245
+Rainy,Highway,,1.0,100.0,4.0,1.0,Low,Wet,Car,44.0,40.0,Artificial Light,,0.32607251259867204
+Clear,Highway,Afternoon,0.0,60.0,3.0,0.0,Low,Dry,Motorcycle,41.0,41.0,No Light,0.0,0.2872973512008895
+Clear,,Morning,0.0,30.0,3.0,0.0,High,Dry,Car,27.0,27.0,Artificial Light,1.0,0.30619668019091445
+Clear,Highway,Afternoon,1.0,50.0,3.0,0.0,Moderate,Dry,Car,26.0,17.0,Artificial Light,0.0,0.283731682248443
+Clear,Highway,Morning,1.0,60.0,3.0,0.0,Low,Icy,Car,65.0,57.0,Artificial Light,1.0,0.2914120545957801
+Snowy,Highway,,1.0,30.0,4.0,1.0,Moderate,Dry,Car,66.0,,Daylight,1.0,0.341507215508846
+Clear,Highway,Afternoon,0.0,60.0,2.0,1.0,Low,Wet,Car,41.0,41.0,Artificial Light,1.0,0.3212399618270735
+,Highway,Evening,,100.0,4.0,0.0,Moderate,Dry,Truck,34.0,28.0,Artificial Light,0.0,0.2688370242895777
+Clear,Mountain Road,,2.0,30.0,1.0,1.0,Moderate,Dry,Car,43.0,38.0,Daylight,0.0,0.3443267217065072
+Stormy,Rural Road,Night,2.0,100.0,3.0,,Low,Icy,Car,48.0,39.0,Daylight,1.0,0.2720746807668655
+Clear,Highway,Evening,0.0,80.0,5.0,0.0,Low,Dry,Car,23.0,22.0,Daylight,1.0,0.2945478242853706
+,Highway,Afternoon,2.0,80.0,2.0,0.0,Low,Dry,Car,24.0,23.0,Daylight,1.0,0.27247534033860044
+Rainy,Highway,Evening,2.0,100.0,3.0,0.0,Low,Icy,Car,34.0,34.0,Artificial Light,0.0,0.27787705521097233
+Clear,City Road,Evening,2.0,50.0,3.0,0.0,Low,Dry,Car,49.0,44.0,Daylight,1.0,0.31232900570929534
+Clear,Highway,Night,1.0,50.0,3.0,0.0,Moderate,Dry,Car,36.0,35.0,Artificial Light,1.0,0.30375394005673534
+Rainy,,Evening,2.0,80.0,1.0,,Low,Dry,Car,65.0,60.0,Artificial Light,1.0,0.27068467051232126
+,Mountain Road,Evening,1.0,60.0,1.0,1.0,Low,Dry,Car,30.0,25.0,Artificial Light,1.0,0.3037188919211328
+Snowy,Highway,Afternoon,0.0,30.0,3.0,1.0,Low,Dry,,33.0,29.0,Daylight,1.0,0.34964517098940984
+Rainy,Highway,Afternoon,,50.0,5.0,0.0,Moderate,Dry,Truck,40.0,36.0,Daylight,0.0,0.33035142562872605
+Stormy,Rural Road,,1.0,60.0,5.0,0.0,High,Wet,Car,46.0,37.0,Daylight,,0.31415310463531787
+,Rural Road,Evening,0.0,80.0,2.0,1.0,Low,Icy,Car,25.0,23.0,Daylight,0.0,0.295713438146574
+,Highway,Afternoon,1.0,60.0,4.0,0.0,Low,Icy,Truck,20.0,20.0,Daylight,0.0,0.3080544090638131
+Foggy,Highway,Evening,1.0,100.0,3.0,0.0,Low,Wet,Motorcycle,28.0,20.0,Daylight,,0.2469009069848794
+Rainy,Rural Road,Afternoon,2.0,80.0,3.0,0.0,Moderate,Wet,Truck,64.0,57.0,Artificial Light,1.0,0.28963834247111414
+Stormy,City Road,Afternoon,0.0,50.0,1.0,0.0,High,Dry,Car,22.0,14.0,Artificial Light,0.0,0.24066982307517498
+Snowy,Highway,Afternoon,0.0,50.0,5.0,0.0,Low,Dry,,38.0,37.0,Artificial Light,0.0,0.32350791782213484
+Rainy,City Road,Morning,1.0,50.0,1.0,0.0,Low,Wet,Car,18.0,9.0,Artificial Light,0.0,0.24955458491119492
+Stormy,Highway,Night,1.0,60.0,5.0,0.0,Low,Icy,Car,27.0,19.0,Daylight,1.0,0.30963069782440716
+Foggy,Rural Road,Afternoon,2.0,60.0,4.0,1.0,Moderate,Under Construction,Car,58.0,54.0,,1.0,0.37494601523468196
+Clear,Rural Road,Morning,,100.0,2.0,0.0,Low,Dry,Truck,60.0,59.0,Artificial Light,1.0,0.2568009489849957
+Rainy,Highway,Evening,1.0,50.0,3.0,0.0,Low,Dry,Motorcycle,65.0,63.0,Artificial Light,1.0,0.31174557602169417
+Clear,Highway,Afternoon,0.0,60.0,1.0,0.0,Moderate,Icy,Car,56.0,55.0,Daylight,0.0,0.25903035233617144
+Foggy,Highway,Evening,0.0,60.0,3.0,1.0,High,Dry,Car,53.0,53.0,Daylight,0.0,0.3411038938189359
+Rainy,Highway,Night,0.0,100.0,5.0,0.0,Moderate,Icy,Car,21.0,19.0,Artificial Light,0.0,0.2759473500023189
+Clear,City Road,Afternoon,2.0,60.0,1.0,0.0,Low,Dry,Motorcycle,60.0,52.0,Artificial Light,0.0,0.27061730808416623
+Clear,Highway,Afternoon,2.0,100.0,2.0,0.0,Moderate,Dry,Car,42.0,41.0,Artificial Light,0.0,0.2628824529454254
+Foggy,City Road,Afternoon,1.0,120.0,,0.0,Low,Dry,,52.0,48.0,Artificial Light,,0.25217170581552123
+Stormy,Rural Road,Evening,0.0,80.0,5.0,0.0,Low,Wet,Car,60.0,,Artificial Light,1.0,0.2659625071253431
+Snowy,City Road,Morning,1.0,100.0,1.0,1.0,Low,Icy,Car,36.0,34.0,Daylight,0.0,0.28033281541798033
+Snowy,Mountain Road,Evening,2.0,80.0,2.0,1.0,Moderate,Dry,Car,23.0,22.0,Daylight,1.0,0.3217718850563844
+Clear,Highway,,2.0,60.0,5.0,0.0,Low,Dry,Car,61.0,52.0,No Light,1.0,0.33169853044580966
+Clear,Highway,Afternoon,0.0,50.0,3.0,0.0,Low,,Car,50.0,45.0,Artificial Light,0.0,0.28799276446586075
+Clear,Highway,Afternoon,2.0,60.0,,0.0,Low,Dry,Car,39.0,33.0,Daylight,0.0,0.3033775324425018
+Clear,City Road,Afternoon,,30.0,1.0,1.0,High,Wet,Car,36.0,31.0,Artificial Light,0.0,0.3295721448609574
+Stormy,Highway,Afternoon,1.0,,4.0,0.0,Moderate,Dry,Car,68.0,59.0,Artificial Light,1.0,0.2973342338563335
+Clear,City Road,Morning,1.0,,5.0,0.0,Low,Wet,Truck,59.0,53.0,Daylight,0.0,0.3161201703700367
+Snowy,Highway,Afternoon,1.0,30.0,,0.0,Moderate,Icy,Car,58.0,55.0,Artificial Light,0.0,0.32759112130680723
+Snowy,Highway,Morning,2.0,50.0,3.0,1.0,Moderate,Icy,Car,29.0,29.0,Artificial Light,0.0,0.3653796579432908
+Clear,Highway,Night,1.0,60.0,5.0,0.0,Low,Dry,Bus,20.0,15.0,Artificial Light,1.0,0.3134096231619152
+Clear,Highway,Afternoon,1.0,50.0,5.0,1.0,Moderate,Dry,Car,27.0,24.0,Artificial Light,0.0,0.3775385583017294
+Snowy,Highway,Morning,2.0,50.0,5.0,1.0,Low,Dry,Car,31.0,29.0,Artificial Light,0.0,0.39333696062454887
+Rainy,City Road,Evening,1.0,100.0,4.0,0.0,Low,Icy,Bus,,,Daylight,0.0,0.2755964910956092
+Rainy,Highway,,2.0,80.0,3.0,0.0,Low,,Car,,28.0,Daylight,0.0,0.26535319503329396
+Clear,Mountain Road,Morning,0.0,60.0,3.0,0.0,Low,Dry,Car,33.0,29.0,Daylight,0.0,0.2762454535505289
+Clear,Highway,Evening,2.0,50.0,4.0,0.0,High,Dry,Motorcycle,27.0,18.0,No Light,0.0,0.31212104425027226
+Clear,Highway,Afternoon,0.0,60.0,4.0,0.0,Low,Wet,Car,25.0,20.0,,0.0,0.2871017986525147
+Clear,City Road,Evening,,50.0,2.0,0.0,Low,Dry,Car,68.0,62.0,Artificial Light,0.0,0.2888244390754851
+Rainy,City Road,Afternoon,1.0,100.0,3.0,0.0,Moderate,Wet,Car,54.0,50.0,Artificial Light,0.0,0.26419741711252653
+Rainy,City Road,Night,0.0,80.0,2.0,0.0,Low,Icy,Car,49.0,49.0,Daylight,,0.25853437764666165
+Snowy,City Road,Evening,2.0,60.0,3.0,0.0,Low,Wet,Truck,38.0,34.0,Artificial Light,0.0,0.3026632322863923
+Clear,Highway,Evening,1.0,60.0,2.0,0.0,Low,Wet,Car,32.0,27.0,Artificial Light,0.0,0.2704701271257584
+Clear,Mountain Road,Afternoon,1.0,30.0,5.0,1.0,Moderate,Wet,Car,38.0,36.0,Artificial Light,1.0,0.3992613388234243
+Clear,City Road,Afternoon,0.0,60.0,1.0,0.0,Moderate,Under Construction,Motorcycle,43.0,40.0,Artificial Light,1.0,0.25038209727234784
+Clear,City Road,Evening,0.0,50.0,1.0,1.0,Low,Wet,Truck,57.0,53.0,Daylight,1.0,0.3107321070746541
+Clear,City Road,,2.0,60.0,1.0,0.0,Moderate,Wet,Car,53.0,49.0,Daylight,0.0,0.2764653620034548
+Clear,Highway,Morning,1.0,60.0,3.0,0.0,Moderate,Under Construction,Truck,,36.0,No Light,0.0,0.28540214147858006
+Clear,Mountain Road,,1.0,80.0,3.0,0.0,Low,Dry,Motorcycle,18.0,18.0,Artificial Light,,0.2758222063555372
+Stormy,City Road,Evening,1.0,189.0,13.0,0.0,Low,Icy,Car,68.0,60.0,Artificial Light,0.0,0.347309519247566
+Snowy,City Road,Afternoon,2.0,,3.0,0.0,Low,,Car,22.0,15.0,Artificial Light,1.0,0.2821547619836885
+Foggy,Highway,Afternoon,1.0,80.0,2.0,0.0,High,Icy,Car,30.0,25.0,Artificial Light,0.0,0.25393878142448734
+Snowy,Highway,Evening,1.0,30.0,5.0,0.0,Low,Dry,Car,52.0,45.0,Daylight,1.0,0.34412914909700004
+Clear,Highway,Afternoon,2.0,30.0,4.0,0.0,Low,Wet,Truck,47.0,45.0,Daylight,0.0,0.34938090250129367
+Clear,Highway,Evening,1.0,50.0,4.0,1.0,Low,Dry,Car,29.0,25.0,Artificial Light,0.0,0.36046241854375366
+Rainy,Highway,Morning,2.0,80.0,2.0,0.0,Low,Dry,Car,43.0,35.0,Artificial Light,1.0,0.2645829756588279
+,Highway,Afternoon,0.0,50.0,2.0,0.0,,Dry,Car,51.0,51.0,Artificial Light,1.0,0.28298447328316345
+Foggy,Highway,Afternoon,1.0,50.0,2.0,,Moderate,Wet,Motorcycle,19.0,19.0,Daylight,1.0,0.2921873840458803
+Clear,Rural Road,Morning,0.0,60.0,2.0,0.0,Low,,Car,68.0,61.0,No Light,0.0,0.2664795128373506
+Rainy,Highway,Night,0.0,50.0,3.0,0.0,Moderate,Dry,Car,69.0,,,0.0,0.24281719191964402
+Rainy,Rural Road,Morning,1.0,50.0,,0.0,Low,Dry,Car,18.0,18.0,No Light,,0.3040840905654952
+Clear,Highway,Afternoon,1.0,50.0,5.0,0.0,High,Icy,Car,23.0,17.0,Artificial Light,1.0,0.32030001326157975
+Snowy,City Road,Afternoon,1.0,60.0,1.0,0.0,Moderate,Dry,Motorcycle,48.0,45.0,No Light,1.0,0.2644582939287916
+Clear,City Road,Afternoon,2.0,60.0,4.0,0.0,,,,32.0,24.0,Artificial Light,1.0,0.3080060374738461
+Rainy,Highway,Morning,1.0,,3.0,0.0,Low,Dry,Car,44.0,39.0,Daylight,0.0,0.28158374120673557
+Rainy,City Road,Afternoon,2.0,50.0,4.0,0.0,Low,Dry,,20.0,15.0,Artificial Light,0.0,0.3179690981695608
+Snowy,Rural Road,Afternoon,2.0,100.0,4.0,0.0,Low,Dry,Car,40.0,36.0,Daylight,1.0,0.28738293538328374
+Stormy,Highway,Afternoon,0.0,,4.0,0.0,High,Under Construction,Motorcycle,46.0,44.0,Artificial Light,0.0,0.2918442477104719
+Rainy,Rural Road,Morning,1.0,60.0,3.0,0.0,Low,Under Construction,,19.0,14.0,Daylight,,0.28166098623250074
+Clear,,Evening,1.0,30.0,5.0,1.0,Low,Icy,Motorcycle,62.0,61.0,Daylight,1.0,0.40965661737492015
+Foggy,Rural Road,Afternoon,2.0,60.0,5.0,0.0,,Dry,Car,28.0,24.0,Artificial Light,0.0,0.33059571714635383
+Clear,,Afternoon,0.0,100.0,1.0,0.0,Low,Under Construction,Car,24.0,18.0,,0.0,0.20590817639339198
+Rainy,Rural Road,Morning,2.0,60.0,2.0,1.0,Low,Icy,Car,18.0,18.0,Daylight,0.0,0.33794389893160237
+Foggy,Highway,Afternoon,,100.0,4.0,0.0,Low,Icy,Car,43.0,37.0,Daylight,0.0,0.2719593305282209
+Rainy,Highway,Afternoon,1.0,100.0,2.0,0.0,Moderate,Dry,Bus,26.0,18.0,Daylight,0.0,0.23050620414706502
+Foggy,Highway,Afternoon,0.0,50.0,,0.0,Low,Wet,Car,66.0,65.0,Daylight,0.0,0.3063256798437256
+Rainy,City Road,Afternoon,0.0,60.0,3.0,0.0,High,Icy,Car,34.0,27.0,Artificial Light,0.0,0.270384990720592
+Clear,Rural Road,Morning,1.0,80.0,4.0,,Low,Dry,Bus,39.0,35.0,Artificial Light,1.0,0.29849479223517156
+Clear,City Road,Evening,1.0,80.0,5.0,0.0,Low,Icy,Car,43.0,41.0,Daylight,0.0,0.3117587360911058
+Rainy,Highway,Morning,0.0,30.0,3.0,0.0,,Dry,Car,27.0,26.0,Daylight,0.0,0.3041275516091339
+Foggy,Highway,Morning,1.0,80.0,3.0,0.0,Low,Icy,Motorcycle,42.0,36.0,,1.0,0.2717335848345692
+Clear,Rural Road,Afternoon,1.0,50.0,4.0,0.0,Low,Dry,Car,49.0,40.0,Daylight,0.0,0.30741176630975825
+Clear,City Road,,2.0,50.0,1.0,0.0,Low,,,56.0,52.0,Artificial Light,0.0,0.28542488068489996
+,Highway,Morning,2.0,,4.0,0.0,Moderate,Wet,Car,30.0,28.0,Artificial Light,1.0,0.31097664522283447
+Snowy,Highway,Evening,1.0,100.0,3.0,0.0,Moderate,Wet,Car,54.0,53.0,Artificial Light,0.0,0.27040480285786817
+Clear,Highway,Night,0.0,120.0,5.0,0.0,Moderate,Icy,Car,67.0,63.0,Daylight,1.0,0.27193004707691737
+Clear,Rural Road,Evening,1.0,30.0,3.0,0.0,,Wet,Car,41.0,35.0,Artificial Light,1.0,0.31098041159531814
+,Highway,Morning,0.0,80.0,1.0,1.0,,Wet,Car,55.0,49.0,Artificial Light,0.0,0.2821437542745912
+Rainy,Highway,Afternoon,2.0,60.0,5.0,0.0,Moderate,Dry,,34.0,32.0,Artificial Light,0.0,0.33681551180234376
+Rainy,Highway,Night,1.0,60.0,4.0,1.0,Low,,Truck,31.0,24.0,Daylight,0.0,0.3470301286939909
+Rainy,Highway,Night,2.0,100.0,4.0,0.0,Moderate,Wet,Car,22.0,21.0,Artificial Light,0.0,0.2873457086513389
+Clear,City Road,Morning,1.0,60.0,2.0,0.0,Low,Dry,Car,64.0,59.0,,0.0,0.2815716604187122
+Clear,Highway,Morning,0.0,60.0,5.0,0.0,,Wet,Car,45.0,41.0,Artificial Light,0.0,0.3118102425493961
+Clear,Mountain Road,Afternoon,2.0,120.0,2.0,,Low,Icy,,50.0,45.0,Daylight,0.0,0.249506684047331
+Rainy,Highway,,1.0,50.0,2.0,0.0,High,Dry,Car,29.0,,Artificial Light,1.0,0.30834614364708857
+Snowy,Rural Road,Evening,1.0,80.0,2.0,0.0,Low,Wet,Car,27.0,18.0,Daylight,1.0,0.24462149835115074
+Clear,Highway,Evening,1.0,60.0,5.0,1.0,High,Dry,Car,26.0,17.0,Daylight,0.0,0.3568581139604106
+Clear,Highway,Evening,2.0,30.0,1.0,1.0,,Icy,Car,68.0,67.0,Artificial Light,0.0,0.3612763089187495
+Foggy,,Afternoon,0.0,60.0,3.0,0.0,Low,Icy,Car,43.0,37.0,Artificial Light,0.0,0.2755764255410158
+Foggy,City Road,Evening,0.0,100.0,1.0,0.0,Low,Dry,Car,35.0,26.0,Artificial Light,1.0,0.2035169427175032
+Foggy,Highway,Morning,0.0,60.0,2.0,0.0,Low,Dry,Truck,46.0,,Daylight,0.0,0.2588083153040505
+Snowy,Highway,Evening,1.0,100.0,5.0,0.0,Moderate,Under Construction,Car,47.0,,Daylight,0.0,0.28485526299718594
+Rainy,Highway,Night,2.0,30.0,5.0,0.0,Low,Icy,Car,56.0,55.0,Daylight,1.0,0.37027319432872224
+Snowy,City Road,Evening,1.0,50.0,2.0,0.0,Low,Wet,Car,67.0,65.0,Artificial Light,1.0,0.296738564845499
+Clear,City Road,Morning,2.0,50.0,1.0,0.0,Low,Dry,Car,62.0,53.0,Artificial Light,1.0,0.27716077526842603
+Rainy,Mountain Road,Evening,2.0,100.0,3.0,0.0,Moderate,Icy,Truck,59.0,57.0,Artificial Light,0.0,0.28241187093253134
+Clear,Highway,Afternoon,,30.0,1.0,0.0,Low,Wet,Car,25.0,24.0,,0.0,0.2843890394854379
+Snowy,Rural Road,Evening,0.0,100.0,5.0,,Low,Dry,Car,28.0,21.0,Artificial Light,1.0,0.27599302947750065
+Clear,Highway,Afternoon,0.0,60.0,4.0,0.0,High,Under Construction,Car,24.0,19.0,Artificial Light,0.0,0.2867548757371099
+Clear,Highway,Afternoon,0.0,100.0,5.0,0.0,Moderate,Dry,Car,43.0,41.0,Daylight,0.0,0.2835796541412246
+Stormy,City Road,Morning,1.0,,1.0,1.0,Moderate,Under Construction,Motorcycle,52.0,50.0,Artificial Light,0.0,0.30880826389449484
+Foggy,Highway,Afternoon,1.0,60.0,1.0,,Moderate,Under Construction,Car,63.0,62.0,Artificial Light,0.0,0.2817632567996756
+Clear,Highway,Evening,1.0,80.0,2.0,0.0,Moderate,Under Construction,Car,24.0,21.0,No Light,0.0,0.2559955010956196
+Clear,,Morning,,100.0,4.0,0.0,Moderate,Icy,Car,40.0,35.0,Artificial Light,1.0,0.272987690363787
+Clear,Highway,Morning,2.0,100.0,,0.0,Low,Dry,Car,40.0,33.0,,0.0,0.2699803270352031
+Foggy,Highway,Morning,0.0,80.0,4.0,0.0,Low,Dry,Car,56.0,51.0,No Light,1.0,0.28201890915960215
+Clear,City Road,Afternoon,,60.0,1.0,0.0,Low,,Car,49.0,47.0,No Light,0.0,0.2668898110676805
+Rainy,Rural Road,Afternoon,2.0,60.0,4.0,0.0,Low,Dry,Car,46.0,40.0,Daylight,0.0,0.31700121545307447
+Stormy,Highway,Night,1.0,100.0,3.0,0.0,Moderate,Icy,Car,29.0,21.0,Daylight,0.0,0.2472478299002842
+Clear,Highway,Morning,0.0,60.0,4.0,0.0,Moderate,Icy,,,58.0,Artificial Light,1.0,0.33428224520533717
+Rainy,Rural Road,Afternoon,1.0,60.0,4.0,0.0,Low,Dry,Car,52.0,44.0,Artificial Light,0.0,0.30260291370252246
+Clear,Mountain Road,Evening,0.0,60.0,4.0,0.0,,Dry,Car,69.0,60.0,Daylight,0.0,0.2940898926032039
+Rainy,Highway,Afternoon,1.0,60.0,2.0,0.0,Low,Dry,,41.0,41.0,,0.0,0.2839380762733044
+Stormy,Mountain Road,Evening,2.0,50.0,3.0,0.0,Low,Dry,Bus,58.0,51.0,No Light,0.0,0.3113130547843775
+Clear,Highway,Morning,2.0,120.0,3.0,0.0,Low,Wet,Car,43.0,40.0,Daylight,0.0,0.2589544758338124
+Clear,Highway,Morning,2.0,100.0,2.0,0.0,Low,Dry,Car,48.0,43.0,Daylight,0.0,0.25668747611073206
+Clear,Highway,Night,,100.0,5.0,1.0,Moderate,,Car,67.0,64.0,Daylight,1.0,0.35183719088347143
+Foggy,Highway,Morning,1.0,30.0,2.0,0.0,Moderate,Wet,Car,59.0,55.0,Artificial Light,,0.3056624242291609
+Clear,Highway,Afternoon,1.0,100.0,2.0,0.0,Low,Dry,Car,20.0,15.0,Artificial Light,0.0,0.2346320523999778
+Rainy,Highway,Afternoon,2.0,60.0,5.0,0.0,Low,,Car,24.0,24.0,Artificial Light,1.0,0.33748453981185683
+Clear,Rural Road,Night,0.0,60.0,5.0,0.0,Low,Wet,Truck,46.0,45.0,Artificial Light,0.0,0.31836455121014257
+Clear,Highway,Night,2.0,60.0,4.0,0.0,Low,Dry,Car,55.0,51.0,Artificial Light,1.0,0.3242617788552788
+Foggy,Rural Road,Night,0.0,50.0,1.0,,Low,Dry,Car,65.0,63.0,Daylight,1.0,0.2759651419045157
+Clear,Highway,Evening,1.0,50.0,,0.0,Low,Dry,Car,44.0,40.0,Daylight,1.0,0.30482757203889793
+Clear,City Road,Morning,2.0,50.0,1.0,0.0,Low,Dry,Car,67.0,66.0,Artificial Light,0.0,0.29544841849969444
+Rainy,,Morning,2.0,50.0,4.0,0.0,Low,Dry,Truck,22.0,18.0,Daylight,0.0,0.320732072582151
+Clear,City Road,Evening,,80.0,4.0,0.0,Low,Dry,Car,58.0,57.0,Daylight,1.0,0.30334631703865717
+Foggy,,Evening,2.0,100.0,4.0,0.0,Low,Dry,Car,27.0,18.0,Artificial Light,0.0,0.27252729457411856
+Foggy,Highway,Evening,0.0,50.0,3.0,0.0,Low,Dry,Car,64.0,62.0,Artificial Light,0.0,0.2990570710268696
+Snowy,City Road,Night,2.0,80.0,1.0,0.0,Low,Dry,Car,57.0,54.0,,0.0,0.2640846823763931
+Clear,Highway,Afternoon,0.0,60.0,1.0,0.0,Moderate,Icy,Car,56.0,55.0,Daylight,0.0,0.25903035233617144
+Clear,City Road,Morning,0.0,50.0,5.0,0.0,Moderate,Dry,Truck,68.0,61.0,Daylight,1.0,0.32150083379359573
+Clear,Highway,Evening,2.0,80.0,4.0,0.0,Low,Under Construction,Car,,54.0,Artificial Light,0.0,0.3348513951665929
+Clear,Highway,Evening,0.0,60.0,3.0,0.0,Moderate,Dry,Car,29.0,,No Light,1.0,0.3037866686394429
+Clear,Highway,Afternoon,2.0,100.0,4.0,0.0,Low,Dry,Car,39.0,34.0,Artificial Light,1.0,0.2849668838860984
+Rainy,Highway,Night,1.0,100.0,5.0,0.0,Low,Wet,Motorcycle,47.0,39.0,,0.0,0.2848941563915803
+Snowy,City Road,Morning,1.0,100.0,2.0,0.0,Moderate,Dry,Car,,18.0,,0.0,0.2007819702586025
+Stormy,Highway,Morning,0.0,60.0,1.0,0.0,Moderate,Dry,Car,21.0,19.0,Artificial Light,0.0,0.2448189217152227
+Clear,Rural Road,Evening,,80.0,5.0,0.0,Low,Under Construction,Car,59.0,54.0,Artificial Light,0.0,0.3111175826339446
+Stormy,Highway,Morning,2.0,60.0,4.0,0.0,Low,Wet,Car,31.0,29.0,Artificial Light,0.0,0.32007388604912457
+Rainy,Mountain Road,Evening,1.0,60.0,,1.0,Low,Dry,Car,30.0,25.0,Artificial Light,1.0,0.3396262403394082
+Rainy,Highway,,0.0,80.0,2.0,1.0,Low,Dry,Truck,23.0,19.0,Daylight,0.0,0.2908813351522033
+Foggy,Mountain Road,Morning,2.0,193.0,11.0,0.0,Low,Icy,Truck,28.0,23.0,Artificial Light,1.0,0.31741235646803323
+Clear,City Road,Evening,1.0,60.0,5.0,0.0,Moderate,Dry,Bus,36.0,33.0,No Light,1.0,0.3230986469719531
+Rainy,Highway,Evening,0.0,100.0,1.0,0.0,Moderate,Wet,Car,67.0,64.0,Daylight,0.0,0.22703324750114023
+Rainy,City Road,Evening,2.0,80.0,2.0,0.0,Moderate,Icy,Bus,55.0,54.0,No Light,1.0,0.28322995071614937
+Clear,City Road,Morning,0.0,60.0,2.0,1.0,Low,Wet,Car,21.0,12.0,,,0.29567934628295245
+Rainy,Highway,Morning,0.0,100.0,2.0,0.0,Moderate,Dry,Car,41.0,36.0,,0.0,0.22957585154405902
+Clear,City Road,Evening,2.0,60.0,1.0,0.0,Low,Dry,Car,69.0,64.0,Daylight,0.0,0.2799470000681511
+Foggy,Highway,Afternoon,0.0,80.0,2.0,0.0,Low,Wet,Car,40.0,36.0,Daylight,0.0,0.2471355570808962
+Rainy,Highway,Afternoon,1.0,60.0,3.0,0.0,Low,Dry,Car,,43.0,Artificial Light,0.0,0.29988604155104387
+Rainy,Rural Road,Evening,2.0,50.0,3.0,0.0,High,Icy,Car,23.0,15.0,Artificial Light,1.0,0.2971016241634288
+,Highway,Evening,1.0,80.0,4.0,0.0,Low,,Car,62.0,55.0,Daylight,,0.29230377156788956
+Rainy,City Road,Night,1.0,50.0,4.0,0.0,Moderate,Dry,Car,32.0,23.0,Artificial Light,0.0,0.30151407674787656
+Snowy,Highway,Morning,2.0,100.0,2.0,0.0,Low,Wet,Car,46.0,44.0,Daylight,0.0,0.2622010160252641
+Clear,Highway,Night,1.0,120.0,5.0,0.0,Moderate,Wet,Car,,67.0,Daylight,0.0,0.33343434191640214
+Stormy,Highway,Evening,2.0,120.0,2.0,1.0,Low,Icy,Car,40.0,40.0,Artificial Light,0.0,0.29806370345912364
+Clear,Highway,Afternoon,0.0,50.0,3.0,0.0,Low,Dry,Motorcycle,41.0,,Artificial Light,0.0,0.29103895057816476
+Foggy,,Afternoon,1.0,50.0,4.0,0.0,Low,Dry,Truck,19.0,12.0,Daylight,1.0,0.3011423360111752
+Clear,Highway,Evening,0.0,50.0,5.0,0.0,Low,Icy,Car,65.0,57.0,Artificial Light,0.0,0.31839093646560074
+Snowy,Highway,Morning,1.0,100.0,1.0,0.0,Low,Dry,Car,68.0,60.0,Daylight,0.0,0.229376109587062
+Stormy,Highway,Morning,2.0,80.0,,0.0,Low,Wet,Car,40.0,37.0,Artificial Light,0.0,0.29409434123278677
+Clear,City Road,Night,2.0,50.0,4.0,0.0,High,Dry,Car,42.0,40.0,No Light,,0.33180878805380815
+Foggy,Rural Road,Evening,2.0,100.0,3.0,0.0,High,,Motorcycle,24.0,24.0,Daylight,0.0,0.27440782605692426
+Rainy,Highway,Night,1.0,100.0,3.0,0.0,High,Wet,Truck,67.0,64.0,Daylight,0.0,0.27077654359456954
+Rainy,Highway,Afternoon,2.0,80.0,3.0,0.0,Moderate,Icy,Car,30.0,28.0,Artificial Light,0.0,0.2881886062562535
+Foggy,City Road,Morning,1.0,50.0,4.0,0.0,Low,Icy,Car,36.0,34.0,Daylight,1.0,0.3173856684819596
+Rainy,City Road,Night,,80.0,4.0,0.0,Low,Dry,Car,60.0,51.0,Daylight,0.0,0.28748713421522243
+Clear,Highway,Afternoon,1.0,80.0,4.0,1.0,Low,Under Construction,Truck,40.0,35.0,Daylight,0.0,0.3384531922257338
+Snowy,City Road,Morning,1.0,80.0,3.0,0.0,Low,Dry,Car,37.0,33.0,Daylight,,0.2741372274211063
+Rainy,City Road,Afternoon,2.0,50.0,5.0,,Moderate,Under Construction,Motorcycle,23.0,,Daylight,0.0,0.38608639272202794
+Rainy,City Road,,0.0,60.0,5.0,0.0,Moderate,Wet,Car,48.0,41.0,Daylight,0.0,0.30664362555026886
+Clear,Highway,Afternoon,1.0,60.0,5.0,0.0,Low,Dry,Car,30.0,,Daylight,0.0,0.34580775906649647
+Clear,Rural Road,Morning,2.0,60.0,4.0,0.0,Low,Icy,Car,49.0,45.0,Artificial Light,0.0,0.32218024136284995
+Snowy,Highway,Afternoon,2.0,80.0,2.0,1.0,Moderate,Icy,Truck,,40.0,No Light,1.0,0.32412534864084447
+Snowy,Highway,Night,1.0,50.0,5.0,0.0,Moderate,Wet,Car,43.0,39.0,Artificial Light,,0.3313767287332369
+Clear,Mountain Road,Evening,0.0,60.0,3.0,0.0,Low,Icy,Car,30.0,25.0,Artificial Light,0.0,0.2731355562225339
+Snowy,Highway,Evening,2.0,50.0,,0.0,Moderate,Dry,Car,25.0,22.0,Artificial Light,0.0,0.31264674730740694
+Stormy,Highway,Night,0.0,50.0,2.0,0.0,High,Dry,Car,67.0,61.0,Daylight,1.0,0.2761204684389571
+Foggy,Highway,Afternoon,0.0,100.0,4.0,0.0,Low,Dry,Truck,28.0,25.0,Artificial Light,1.0,0.26060582482136724
+Clear,City Road,Morning,1.0,120.0,1.0,0.0,High,Dry,Car,59.0,54.0,Daylight,0.0,0.21662368922329892
+Rainy,Highway,Afternoon,0.0,,3.0,0.0,Moderate,Under Construction,Car,54.0,49.0,Daylight,0.0,0.27271138828136393
+Rainy,Highway,,0.0,100.0,1.0,0.0,Low,Icy,Car,,67.0,Artificial Light,0.0,0.27412683167942475
+Clear,Rural Road,Morning,1.0,80.0,4.0,0.0,Moderate,Icy,Car,60.0,51.0,Artificial Light,0.0,0.28747166857351886
+Rainy,Highway,Morning,1.0,30.0,3.0,0.0,Low,Dry,Car,44.0,39.0,Artificial Light,0.0,0.3140903089233131
+Foggy,Highway,Afternoon,1.0,30.0,5.0,0.0,Low,Under Construction,Car,61.0,61.0,Daylight,1.0,0.3617353554081071
+Rainy,City Road,Afternoon,1.0,,5.0,0.0,Moderate,Dry,Car,30.0,27.0,Artificial Light,1.0,0.312266791568639
+Clear,Highway,Night,1.0,80.0,,1.0,Moderate,Dry,Car,33.0,25.0,Daylight,0.0,0.3186221234698195
+Rainy,Highway,Evening,0.0,60.0,3.0,0.0,High,Icy,Car,18.0,9.0,Artificial Light,0.0,0.2606959669105541
+Snowy,Rural Road,Night,2.0,80.0,3.0,1.0,Low,Dry,Car,51.0,44.0,Artificial Light,0.0,0.33477181220404045
+Clear,Highway,Afternoon,1.0,50.0,4.0,0.0,Moderate,Dry,Motorcycle,58.0,55.0,Daylight,0.0,0.32294884403908475
+Clear,Highway,Afternoon,2.0,100.0,1.0,1.0,Moderate,Icy,Car,,45.0,Daylight,0.0,0.30293263467228093
+Clear,Rural Road,Evening,1.0,80.0,5.0,0.0,Moderate,Wet,,36.0,28.0,Daylight,0.0,0.29691550419258894
+Clear,Rural Road,Evening,0.0,60.0,5.0,0.0,Low,Dry,Truck,52.0,46.0,Daylight,1.0,0.31010044579366863
+Snowy,City Road,Evening,0.0,50.0,1.0,0.0,Moderate,Wet,Car,69.0,61.0,Daylight,0.0,0.25697520009920083
+Rainy,Highway,Evening,0.0,30.0,3.0,0.0,Low,Dry,Car,35.0,34.0,No Light,0.0,0.3069029349323723
+Snowy,City Road,Night,2.0,60.0,2.0,1.0,High,Dry,Car,20.0,14.0,Daylight,0.0,0.3262229732717287
+Rainy,Rural Road,Evening,2.0,50.0,4.0,0.0,Moderate,Dry,Bus,61.0,60.0,Daylight,0.0,0.34046945202828
+Rainy,Highway,Afternoon,1.0,50.0,5.0,0.0,Moderate,Icy,Truck,39.0,39.0,Artificial Light,0.0,0.3382655513987399
+Snowy,City Road,,1.0,60.0,2.0,0.0,,Dry,Car,43.0,37.0,Daylight,1.0,0.2722171506134307
+Rainy,Highway,Evening,1.0,100.0,4.0,1.0,Low,Wet,Car,,40.0,Artificial Light,0.0,0.3273479807049729
+Clear,City Road,Morning,2.0,60.0,1.0,0.0,Low,Dry,,46.0,40.0,Artificial Light,0.0,0.2698986444320601
+Snowy,Highway,Night,2.0,80.0,4.0,0.0,Low,Icy,Car,68.0,66.0,Daylight,0.0,0.3170725340486409
+Rainy,,Evening,2.0,30.0,3.0,0.0,Low,Dry,Truck,64.0,63.0,Daylight,,0.3416468636379511
+Clear,Highway,Morning,0.0,60.0,1.0,,Low,Dry,Car,66.0,57.0,Artificial Light,0.0,0.25390941481222595
+Rainy,Mountain Road,Morning,2.0,100.0,1.0,0.0,Moderate,Dry,Car,61.0,55.0,Artificial Light,0.0,0.24342748842220918
+Clear,Rural Road,Evening,2.0,50.0,2.0,0.0,High,Dry,Car,58.0,50.0,Artificial Light,0.0,0.29354306919559214
+Clear,Rural Road,Afternoon,2.0,60.0,4.0,1.0,Low,Under Construction,Car,29.0,,Artificial Light,1.0,0.3938141574384759
+Clear,Highway,Afternoon,1.0,100.0,5.0,1.0,High,Under Construction,Car,42.0,41.0,No Light,1.0,0.34728690952020885
+Clear,Highway,Night,2.0,50.0,3.0,0.0,Low,Icy,Car,43.0,37.0,Daylight,0.0,0.308178339635086
+Clear,City Road,Night,1.0,189.0,14.0,0.0,Moderate,,Car,33.0,31.0,Daylight,1.0,0.3632828457060858
+Foggy,City Road,Evening,2.0,30.0,2.0,0.0,Low,Wet,Car,63.0,62.0,Daylight,0.0,0.32559908371554147
+Rainy,Highway,Evening,1.0,60.0,4.0,0.0,Low,Icy,Car,54.0,52.0,Artificial Light,0.0,0.3157115310240154
+Rainy,,Evening,1.0,50.0,2.0,0.0,Low,Dry,Truck,49.0,47.0,Artificial Light,1.0,0.29049395236821246
+Clear,City Road,Afternoon,1.0,30.0,3.0,0.0,Low,Wet,Motorcycle,26.0,22.0,Daylight,0.0,0.30991482502780715
+Foggy,Highway,Afternoon,0.0,60.0,5.0,1.0,Low,Dry,Car,57.0,56.0,Daylight,1.0,0.3718241709127842
+Clear,Highway,Evening,0.0,100.0,2.0,0.0,Low,Dry,Motorcycle,34.0,30.0,Artificial Light,0.0,0.2292165197180059
+Clear,Rural Road,Evening,2.0,60.0,5.0,0.0,Low,Icy,Car,23.0,,No Light,1.0,0.37020478081054636
+Clear,City Road,Night,1.0,50.0,5.0,0.0,Low,Dry,Motorcycle,33.0,31.0,Daylight,0.0,0.33204575674275
+Rainy,Rural Road,Morning,0.0,80.0,4.0,1.0,Low,Under Construction,Car,52.0,52.0,Artificial Light,0.0,0.3406203280400744
+Rainy,City Road,Evening,0.0,100.0,,1.0,Low,Icy,Car,67.0,64.0,Artificial Light,0.0,0.3125840635526044
+Foggy,Highway,Night,0.0,60.0,5.0,,Low,Dry,Car,69.0,,Daylight,0.0,0.2742630179746737
+Clear,City Road,Morning,1.0,60.0,3.0,0.0,Moderate,Dry,Truck,23.0,14.0,Daylight,0.0,0.2747721635669978
+Clear,City Road,Night,0.0,,4.0,0.0,Low,Dry,Motorcycle,63.0,62.0,Daylight,0.0,0.29981106585413414
+Rainy,City Road,Morning,1.0,80.0,2.0,0.0,Low,Icy,Car,55.0,50.0,No Light,0.0,0.26261185430960743
+Clear,Rural Road,Evening,1.0,100.0,1.0,0.0,Low,Icy,Car,62.0,55.0,Artificial Light,1.0,0.2293637006764137
+Snowy,Rural Road,Evening,1.0,80.0,,0.0,Low,Wet,Car,27.0,18.0,Daylight,1.0,0.26482798976242133
+Clear,Highway,Afternoon,2.0,80.0,2.0,1.0,Moderate,Dry,Car,44.0,41.0,,0.0,0.3249190091163242
+Clear,Highway,Morning,,50.0,4.0,0.0,Moderate,Dry,Motorcycle,32.0,27.0,Daylight,1.0,0.3098060567167023
+Snowy,Highway,Afternoon,1.0,60.0,4.0,0.0,Moderate,Dry,Truck,48.0,44.0,No Light,1.0,0.30949173636802546
+Foggy,,Morning,0.0,30.0,3.0,0.0,Low,Icy,Car,21.0,19.0,No Light,1.0,0.2999768855349245
+Snowy,Highway,Afternoon,0.0,60.0,1.0,0.0,High,Under Construction,Car,22.0,17.0,Artificial Light,0.0,0.23895845888528588
+Rainy,Rural Road,Afternoon,1.0,60.0,3.0,0.0,Low,Dry,Car,20.0,13.0,Daylight,1.0,0.2778696519843445
+Clear,,Morning,1.0,120.0,,1.0,Low,Under Construction,Car,60.0,53.0,Daylight,0.0,0.2983831710266068
+Clear,Highway,,1.0,60.0,3.0,0.0,Moderate,Under Construction,Truck,41.0,36.0,No Light,0.0,0.28929329037140644
+Clear,City Road,Afternoon,1.0,100.0,3.0,0.0,Moderate,Under Construction,Car,38.0,38.0,Daylight,1.0,0.2669231647931718
+Stormy,Highway,Afternoon,1.0,60.0,3.0,0.0,Low,Dry,,42.0,34.0,Artificial Light,0.0,0.28343282754146965
+Rainy,City Road,Night,0.0,30.0,1.0,1.0,Moderate,Dry,Motorcycle,,63.0,Artificial Light,1.0,0.3709250345321065
+Snowy,Highway,Morning,2.0,60.0,1.0,0.0,High,Dry,Car,53.0,52.0,Daylight,0.0,0.2826727477487964
+Foggy,Highway,Night,1.0,30.0,4.0,0.0,,Under Construction,Car,58.0,56.0,Daylight,0.0,0.3408554724913268
+Clear,Highway,Morning,0.0,100.0,4.0,0.0,Low,Dry,Motorcycle,24.0,20.0,Artificial Light,1.0,0.25714900457796747
+Stormy,Rural Road,Afternoon,0.0,,1.0,1.0,Low,Dry,Car,41.0,41.0,Daylight,1.0,0.29678878690918337
+Snowy,,Night,0.0,100.0,2.0,0.0,Moderate,Dry,Car,40.0,40.0,Daylight,0.0,0.2395745715375569
+Foggy,City Road,Evening,1.0,185.0,13.0,0.0,,Dry,Car,68.0,,Artificial Light,0.0,0.30698642560987244
+Rainy,Highway,Afternoon,0.0,60.0,1.0,,Low,Under Construction,,34.0,30.0,Daylight,0.0,0.2531535244281749
+Rainy,City Road,,1.0,50.0,,0.0,High,Icy,Car,35.0,26.0,Artificial Light,0.0,0.291359622891352
+Rainy,,Morning,0.0,,4.0,1.0,Low,Dry,Car,48.0,48.0,Artificial Light,0.0,0.3463198183380314
+Rainy,Highway,Morning,0.0,80.0,1.0,0.0,Low,Dry,Car,22.0,22.0,Artificial Light,0.0,0.23346660192372712
+,City Road,Afternoon,0.0,50.0,5.0,0.0,,Wet,Car,29.0,27.0,Daylight,0.0,0.31831648300171106
+Clear,Highway,Morning,2.0,100.0,2.0,1.0,Low,Wet,Car,,17.0,Artificial Light,0.0,0.26069789138943045
+Stormy,Highway,Morning,0.0,60.0,3.0,0.0,Moderate,Dry,Car,54.0,53.0,Daylight,1.0,0.2897382205193714
+Clear,Highway,Night,1.0,50.0,3.0,0.0,Low,Dry,Car,46.0,44.0,Artificial Light,1.0,0.30515404062900287
+Clear,Highway,Morning,2.0,30.0,2.0,0.0,Low,Dry,Car,32.0,26.0,No Light,0.0,0.3044988304290898
+Clear,Highway,Morning,2.0,80.0,2.0,0.0,Low,Dry,Truck,40.0,37.0,Artificial Light,1.0,0.2738878498215162
+Stormy,Rural Road,,0.0,199.0,11.0,0.0,Low,Dry,Car,47.0,47.0,Artificial Light,1.0,0.3049151206496494
+Clear,,Evening,1.0,60.0,5.0,0.0,Moderate,Wet,Car,34.0,33.0,Artificial Light,0.0,0.3265430583047046
+Rainy,City Road,Afternoon,2.0,60.0,1.0,0.0,Moderate,Dry,Car,32.0,30.0,Daylight,1.0,0.273318237943515
+Foggy,Highway,Afternoon,0.0,50.0,,0.0,Moderate,Dry,Bus,43.0,39.0,Daylight,0.0,0.29213906704407344
+Foggy,Highway,Evening,1.0,50.0,1.0,0.0,Moderate,Dry,Car,46.0,39.0,Daylight,0.0,0.26340668370609055
+Rainy,Highway,Morning,2.0,80.0,1.0,0.0,Moderate,Wet,Motorcycle,42.0,,Daylight,0.0,0.25884194525092663
+Snowy,Rural Road,Afternoon,1.0,50.0,3.0,0.0,Moderate,Dry,Car,67.0,62.0,Artificial Light,0.0,0.30623203610716215
+Clear,City Road,Morning,0.0,60.0,5.0,0.0,Low,Wet,Motorcycle,53.0,48.0,Artificial Light,1.0,0.312516497290854
+Foggy,Highway,Morning,2.0,50.0,4.0,1.0,Low,Wet,Car,53.0,50.0,Artificial Light,0.0,0.3831992791746692
+Rainy,Mountain Road,Morning,2.0,50.0,1.0,0.0,Moderate,Dry,Motorcycle,61.0,54.0,Artificial Light,0.0,0.28095210951658234
+Rainy,Rural Road,,0.0,192.0,10.0,1.0,Moderate,Dry,Motorcycle,60.0,53.0,Artificial Light,0.0,0.33442695405829354
+Foggy,Rural Road,Afternoon,1.0,30.0,4.0,1.0,Moderate,,Car,29.0,26.0,Artificial Light,0.0,0.3783690469959957
+Rainy,City Road,Evening,2.0,80.0,4.0,0.0,Low,Icy,Car,22.0,19.0,Artificial Light,1.0,0.2990449513582393
+Rainy,Highway,Morning,2.0,,4.0,1.0,Low,Wet,Car,52.0,45.0,Artificial Light,,0.3579067740860262
+Clear,City Road,Afternoon,0.0,120.0,1.0,0.0,Moderate,Dry,Car,46.0,40.0,Artificial Light,1.0,0.1977029806618362
+Clear,Rural Road,Afternoon,,50.0,5.0,0.0,Moderate,Dry,Car,58.0,58.0,Artificial Light,1.0,0.34487255243313475
+Rainy,Highway,Morning,0.0,100.0,4.0,0.0,Low,Dry,Car,39.0,35.0,,0.0,0.26235284830903954
+Clear,City Road,Evening,0.0,60.0,4.0,0.0,High,Dry,Car,58.0,49.0,No Light,0.0,0.29027374053375105
+Rainy,,Morning,0.0,30.0,,0.0,Low,Icy,Car,59.0,56.0,No Light,0.0,0.31559646214279236
+Rainy,City Road,Night,0.0,60.0,2.0,0.0,Low,Dry,Car,35.0,34.0,Artificial Light,0.0,0.2674458281196753
+Foggy,,Morning,0.0,100.0,3.0,0.0,High,Icy,Car,46.0,43.0,Artificial Light,0.0,0.2511495802916489
+Clear,City Road,Evening,1.0,50.0,3.0,0.0,Low,Dry,Car,36.0,29.0,Daylight,,0.2913391685660521
+Clear,Highway,Night,1.0,80.0,3.0,1.0,Low,Dry,Car,32.0,24.0,Artificial Light,0.0,0.3137695661501489
+Clear,City Road,Morning,0.0,80.0,2.0,0.0,Low,Dry,Car,19.0,14.0,Artificial Light,0.0,0.23778104727561478
+Clear,Highway,Morning,1.0,100.0,5.0,0.0,Low,Under Construction,Motorcycle,19.0,13.0,Daylight,0.0,0.2793185719238068
+Rainy,City Road,Afternoon,1.0,60.0,3.0,,Low,Wet,Car,21.0,17.0,Artificial Light,1.0,0.29238682262134175
+Snowy,City Road,Afternoon,1.0,50.0,2.0,0.0,Low,Dry,Car,34.0,27.0,Artificial Light,0.0,0.27494446572823766
+Clear,Highway,Evening,2.0,80.0,3.0,0.0,Moderate,Dry,Truck,48.0,40.0,Daylight,0.0,0.2820184472428567
+,Highway,Evening,1.0,30.0,5.0,0.0,Low,Dry,Car,59.0,59.0,Daylight,0.0,0.36104150957729747
+Rainy,Rural Road,Afternoon,2.0,100.0,2.0,,Low,Icy,Car,,59.0,Artificial Light,0.0,0.3059206861672754
+Stormy,,Evening,2.0,30.0,3.0,0.0,,Icy,Car,46.0,46.0,No Light,1.0,0.3374713797424452
+Rainy,Rural Road,Afternoon,1.0,50.0,,0.0,Low,Wet,Car,49.0,46.0,Artificial Light,0.0,0.30863131519770254
+Rainy,Highway,Morning,0.0,,4.0,0.0,Low,Wet,Car,48.0,41.0,Artificial Light,0.0,0.2821924506323788
+Rainy,Highway,Evening,2.0,80.0,2.0,0.0,High,Dry,,52.0,46.0,Daylight,0.0,0.2718435390610322
+Rainy,City Road,Evening,1.0,213.0,14.0,0.0,Low,Dry,Car,59.0,58.0,No Light,0.0,0.35536697024383757
+Clear,City Road,Afternoon,1.0,100.0,1.0,0.0,Low,Under Construction,Truck,49.0,40.0,Artificial Light,0.0,0.22071544561259016
+Clear,Rural Road,Afternoon,2.0,60.0,3.0,0.0,Low,Icy,Bus,48.0,,Daylight,1.0,0.29574792513714326
+Rainy,Highway,Afternoon,1.0,30.0,3.0,0.0,,Dry,Motorcycle,40.0,32.0,Daylight,0.0,0.3064952315163522
+,City Road,Morning,1.0,50.0,1.0,0.0,Low,Under Construction,Motorcycle,59.0,50.0,Daylight,0.0,0.2637784244427919
+Foggy,City Road,Evening,0.0,50.0,3.0,0.0,Low,Under Construction,Motorcycle,61.0,61.0,Daylight,1.0,0.3021545594442163
+,City Road,Morning,1.0,60.0,2.0,0.0,Moderate,Dry,Car,33.0,31.0,Artificial Light,0.0,0.2770244357865049
+Foggy,City Road,Afternoon,2.0,80.0,,0.0,Low,Icy,Car,45.0,42.0,Daylight,,0.2958289558098108
+Rainy,City Road,Afternoon,,30.0,3.0,0.0,Low,Dry,Car,,54.0,No Light,0.0,0.34641817139802566
+Clear,Rural Road,Morning,1.0,50.0,5.0,0.0,High,Icy,Truck,50.0,41.0,No Light,1.0,0.3234595462321679
+Clear,Highway,Afternoon,1.0,30.0,5.0,0.0,Moderate,Dry,Car,63.0,55.0,Artificial Light,1.0,0.34587617258467235
+Snowy,Highway,Morning,,100.0,3.0,0.0,Low,Under Construction,Car,64.0,57.0,Artificial Light,1.0,0.26147472616293643
+Rainy,Rural Road,Night,0.0,30.0,3.0,1.0,Low,Dry,Car,51.0,42.0,No Light,0.0,0.34554414055779364
+Foggy,Rural Road,Afternoon,1.0,60.0,4.0,,High,Icy,Car,40.0,35.0,Artificial Light,,0.3126100864392573
+Clear,City Road,Morning,1.0,100.0,4.0,,Low,Icy,,53.0,48.0,Artificial Light,0.0,0.2854450845985968
+Clear,City Road,Afternoon,2.0,50.0,2.0,0.0,Moderate,Wet,Car,34.0,30.0,Daylight,1.0,0.293493433552999
+Clear,Rural Road,Afternoon,0.0,80.0,1.0,0.0,Low,,Car,64.0,61.0,Daylight,0.0,0.2418299786253873
+,Highway,Evening,1.0,50.0,2.0,0.0,Low,Under Construction,Truck,61.0,52.0,Daylight,1.0,0.28017312728060634
+Clear,Rural Road,Afternoon,2.0,120.0,5.0,0.0,Low,Wet,Car,19.0,17.0,Daylight,0.0,0.28409916845988725
+Foggy,Mountain Road,Morning,2.0,,4.0,0.0,Moderate,Dry,Motorcycle,45.0,40.0,No Light,0.0,0.3099731032085649
+,Highway,Morning,2.0,100.0,5.0,0.0,,Wet,,27.0,24.0,Artificial Light,0.0,0.3006429230718066
+Rainy,Highway,Afternoon,2.0,30.0,1.0,0.0,Low,Icy,Car,39.0,30.0,Artificial Light,0.0,0.285019048084577
+Clear,Mountain Road,Night,0.0,50.0,1.0,0.0,Low,Icy,Motorcycle,40.0,39.0,Artificial Light,0.0,0.26139833562492526
+Rainy,Highway,Evening,2.0,,2.0,0.0,Low,Dry,Car,18.0,18.0,Daylight,0.0,0.27955011338752833
+Rainy,Highway,Night,2.0,50.0,5.0,0.0,Moderate,Under Construction,Car,67.0,62.0,Daylight,0.0,0.3499753322005914
+Clear,Rural Road,Evening,0.0,60.0,5.0,0.0,Low,Dry,Truck,52.0,46.0,Daylight,1.0,0.31010044579366863
+Rainy,Rural Road,Evening,0.0,80.0,3.0,1.0,Moderate,Dry,Truck,47.0,40.0,Daylight,0.0,0.3087009563835818
+Clear,Rural Road,Afternoon,0.0,30.0,4.0,0.0,Low,Dry,Car,54.0,53.0,Daylight,0.0,0.3291953273320684
+,Highway,Afternoon,1.0,30.0,3.0,0.0,Low,Dry,Motorcycle,47.0,46.0,Artificial Light,0.0,0.3234075919966497
+Foggy,City Road,Morning,2.0,60.0,4.0,0.0,Moderate,Dry,Car,36.0,32.0,Artificial Light,0.0,0.3176702434625875
+Clear,Highway,Morning,0.0,100.0,5.0,0.0,Low,Wet,Motorcycle,41.0,32.0,Artificial Light,1.0,0.2684019082379512
+Rainy,Highway,Evening,2.0,30.0,3.0,0.0,Low,Dry,,64.0,63.0,Daylight,0.0,0.3416468636379511
+Rainy,Mountain Road,Morning,0.0,50.0,4.0,0.0,Moderate,Under Construction,Car,41.0,33.0,Daylight,0.0,0.2943639294888806
+Foggy,City Road,Evening,0.0,60.0,2.0,1.0,Low,Icy,Car,29.0,28.0,Daylight,0.0,0.31500775826043526
+Snowy,City Road,Evening,2.0,100.0,5.0,0.0,Low,Icy,Truck,60.0,57.0,Artificial Light,0.0,0.31209137928016517
+Clear,City Road,Evening,2.0,60.0,2.0,0.0,Moderate,Dry,Car,51.0,44.0,Artificial Light,0.0,0.28526498743430834
+Rainy,Highway,Afternoon,0.0,80.0,4.0,0.0,High,Dry,Car,42.0,34.0,Artificial Light,,0.2709546025985932
+Foggy,Rural Road,Night,1.0,120.0,2.0,0.0,Moderate,Icy,Bus,68.0,67.0,Artificial Light,0.0,0.24372336679606912
+Foggy,Highway,Morning,1.0,80.0,,0.0,Low,Dry,Car,21.0,13.0,Daylight,0.0,0.26481558085177304
+Rainy,Highway,Morning,1.0,80.0,1.0,0.0,Low,Dry,Car,26.0,24.0,No Light,0.0,0.24305761850120497
+Stormy,City Road,Afternoon,2.0,100.0,4.0,0.0,Low,Icy,Car,68.0,65.0,No Light,0.0,0.29916590559639883
+Rainy,Highway,Afternoon,1.0,120.0,1.0,0.0,Low,Dry,Car,27.0,26.0,Daylight,0.0,0.21379867025746735
+Snowy,City Road,Evening,1.0,80.0,5.0,0.0,Low,Dry,,30.0,22.0,Daylight,0.0,0.2948339667001601
+Rainy,Highway,Afternoon,0.0,80.0,4.0,0.0,Moderate,Wet,Car,66.0,61.0,Artificial Light,0.0,0.2854881383136502
+,City Road,,2.0,50.0,1.0,1.0,Low,Dry,,,55.0,Daylight,1.0,0.36321767016624007
+Clear,Rural Road,Night,0.0,60.0,2.0,0.0,Low,Dry,Car,38.0,34.0,Artificial Light,1.0,0.2622792111205481
+Rainy,Highway,Afternoon,1.0,120.0,3.0,0.0,High,Wet,Bus,64.0,61.0,Artificial Light,0.0,0.25389827497789363
+Rainy,Highway,Evening,0.0,60.0,,0.0,Moderate,Dry,Car,26.0,25.0,Artificial Light,1.0,0.28453001329230265
+Clear,Mountain Road,Evening,1.0,50.0,3.0,0.0,Low,Dry,Car,48.0,45.0,Artificial Light,0.0,0.30377875787803194
+Clear,,Afternoon,2.0,60.0,2.0,0.0,Moderate,,Car,37.0,30.0,Daylight,0.0,0.2804080666186411
+Foggy,Rural Road,Afternoon,1.0,80.0,1.0,,Low,Dry,Car,52.0,52.0,Artificial Light,1.0,0.2641787334415418
+Clear,Highway,Morning,0.0,60.0,1.0,0.0,,Dry,Car,48.0,39.0,Daylight,1.0,0.2397019403586886
+Clear,Rural Road,Night,1.0,50.0,2.0,1.0,Low,Dry,Motorcycle,42.0,35.0,Artificial Light,1.0,0.3273633166846649
+Snowy,Rural Road,Evening,2.0,30.0,4.0,0.0,High,Dry,Truck,45.0,45.0,Daylight,0.0,0.35282531383404514
+Rainy,Highway,Evening,0.0,80.0,4.0,0.0,Moderate,Dry,Car,28.0,20.0,Artificial Light,1.0,0.266097681782926
+Foggy,Mountain Road,Afternoon,1.0,60.0,4.0,0.0,Low,Under Construction,Car,46.0,42.0,Artificial Light,0.0,0.30879789053721585
+Rainy,Highway,Night,2.0,100.0,1.0,,,Dry,Car,,38.0,Daylight,0.0,0.24676812894287917
+Clear,Highway,Evening,0.0,50.0,4.0,0.0,Low,Icy,Car,37.0,31.0,Artificial Light,1.0,0.29711449499082254
+Foggy,City Road,Afternoon,0.0,50.0,2.0,0.0,Low,Icy,Car,58.0,49.0,Artificial Light,1.0,0.2667907764549722
+Foggy,Highway,Morning,2.0,60.0,5.0,0.0,High,Wet,Car,51.0,47.0,Artificial Light,0.0,0.33857494420066436
+Clear,Rural Road,Evening,1.0,100.0,1.0,1.0,High,Dry,Truck,54.0,46.0,Artificial Light,0.0,0.27416265640458354
+Rainy,Highway,Morning,2.0,60.0,3.0,0.0,High,Dry,Car,48.0,48.0,Artificial Light,1.0,0.31440897576756255
+Foggy,,Afternoon,1.0,80.0,2.0,0.0,Low,Dry,Car,27.0,25.0,Daylight,0.0,0.2591053984236146
+Clear,City Road,Morning,2.0,198.0,11.0,0.0,Low,Under Construction,Car,62.0,60.0,Artificial Light,0.0,0.33145574636952285
+Clear,City Road,Morning,0.0,60.0,2.0,0.0,Low,Under Construction,Car,64.0,58.0,No Light,0.0,0.2671609497575119
+Clear,Rural Road,Afternoon,0.0,100.0,4.0,1.0,Low,Under Construction,Car,21.0,,Artificial Light,0.0,0.3512336388697195
+Clear,City Road,Morning,1.0,192.0,10.0,0.0,Low,Dry,Car,19.0,18.0,Artificial Light,1.0,0.29531600046361073
+Clear,Rural Road,Evening,2.0,80.0,2.0,0.0,,Dry,Car,35.0,31.0,Daylight,0.0,0.2700841066627116
+Foggy,City Road,Evening,2.0,60.0,4.0,0.0,Low,Icy,Car,31.0,30.0,Daylight,1.0,0.3221430146309051
+Snowy,Rural Road,Afternoon,2.0,30.0,5.0,1.0,Moderate,Dry,Car,56.0,50.0,Artificial Light,1.0,0.4095710190530083
+Foggy,Rural Road,Morning,,60.0,5.0,0.0,Low,Icy,Truck,32.0,31.0,No Light,0.0,0.32586467811559855
+Clear,Highway,Afternoon,0.0,80.0,5.0,0.0,Low,Dry,Car,22.0,14.0,Daylight,0.0,0.27971700129750193
+Snowy,Highway,Afternoon,2.0,80.0,1.0,0.0,Low,Dry,Car,54.0,54.0,Artificial Light,0.0,0.2692512993755203
+,City Road,Night,,50.0,2.0,0.0,Low,Icy,Car,38.0,38.0,,0.0,0.29083152310402427
+,Rural Road,Morning,2.0,50.0,2.0,,Low,Icy,Car,24.0,24.0,Daylight,0.0,0.306263580702324
+Snowy,City Road,Evening,0.0,60.0,5.0,0.0,Moderate,Dry,Car,23.0,19.0,,1.0,0.3041779384104904
+Clear,Highway,Night,2.0,30.0,2.0,1.0,Moderate,Dry,Car,60.0,55.0,Artificial Light,1.0,0.3659252682753937
+Snowy,Highway,Afternoon,2.0,50.0,4.0,0.0,,Wet,Car,44.0,35.0,Daylight,0.0,0.31801873381215395
+Foggy,City Road,Afternoon,1.0,80.0,5.0,0.0,High,Wet,Car,37.0,34.0,Daylight,0.0,0.30760807001689644
+Foggy,Mountain Road,Night,1.0,60.0,1.0,0.0,Moderate,Under Construction,Car,58.0,58.0,Daylight,0.0,0.27413490882818126
+Foggy,Highway,Morning,1.0,50.0,3.0,,Low,Wet,Car,57.0,53.0,No Light,0.0,0.3127947975111455
+Stormy,Highway,Evening,0.0,,1.0,0.0,,Dry,Car,23.0,20.0,Artificial Light,1.0,0.2346933210533665
+Rainy,City Road,Afternoon,1.0,50.0,3.0,0.0,Low,Dry,,,42.0,Daylight,0.0,0.3057356629044941
+Rainy,Highway,Night,,80.0,4.0,0.0,Moderate,Dry,Car,69.0,66.0,,0.0,0.3030242119445489
+Snowy,Highway,,0.0,100.0,3.0,0.0,Low,Icy,Car,29.0,,Artificial Light,,0.27211166889851995
+Rainy,Mountain Road,Afternoon,2.0,30.0,5.0,0.0,Low,Dry,Car,27.0,25.0,Artificial Light,0.0,0.3581433012002023
+Clear,City Road,Afternoon,1.0,30.0,1.0,0.0,Low,Wet,Car,65.0,61.0,Artificial Light,0.0,0.29204310471458494
+Rainy,Highway,Morning,1.0,30.0,3.0,0.0,Low,Dry,Motorcycle,69.0,64.0,Daylight,0.0,0.3227633818084332
+Clear,,Evening,2.0,50.0,3.0,0.0,Moderate,Dry,Car,54.0,47.0,No Light,0.0,0.3099253631227583
+Snowy,City Road,Afternoon,0.0,,4.0,0.0,High,Icy,Car,52.0,51.0,Daylight,0.0,0.2959949137846813
+Snowy,Highway,Morning,1.0,80.0,4.0,1.0,Moderate,Dry,Car,33.0,27.0,Daylight,0.0,0.33395560323611956
+Clear,Highway,Evening,1.0,80.0,,0.0,Moderate,Wet,Motorcycle,48.0,42.0,Daylight,1.0,0.2783207567312639
+Clear,Highway,Morning,2.0,60.0,5.0,0.0,Low,Wet,Motorcycle,42.0,39.0,Daylight,0.0,0.33752176654380167
+Rainy,City Road,Evening,1.0,80.0,3.0,0.0,High,Icy,Truck,27.0,20.0,Daylight,1.0,0.2644606125217166
+Foggy,City Road,Afternoon,2.0,50.0,2.0,0.0,Moderate,Wet,Truck,55.0,47.0,Daylight,0.0,0.29250230044937775
+Clear,City Road,Evening,0.0,100.0,,1.0,Low,Dry,Truck,47.0,40.0,Daylight,1.0,0.2973690909173861
+Clear,Highway,Evening,1.0,60.0,4.0,0.0,Moderate,Icy,Car,39.0,35.0,Daylight,1.0,0.3063694301293822
+Rainy,Mountain Road,Morning,1.0,60.0,,0.0,Low,Dry,Car,59.0,51.0,Artificial Light,0.0,0.2938361515076171
+Rainy,Highway,Evening,0.0,120.0,2.0,0.0,Low,Dry,Truck,,33.0,Artificial Light,0.0,0.2036398170354295
+Foggy,City Road,Evening,0.0,80.0,3.0,0.0,Moderate,Under Construction,Motorcycle,22.0,18.0,Daylight,0.0,0.2565918016106145
+Clear,Highway,,1.0,206.0,11.0,0.0,Low,Icy,Car,39.0,35.0,,0.0,0.300661680124047
+Clear,City Road,Afternoon,0.0,60.0,3.0,0.0,Low,Dry,Truck,22.0,13.0,Daylight,1.0,0.2620836585721733
+,Rural Road,Evening,2.0,,3.0,0.0,Moderate,Dry,Car,20.0,,Artificial Light,0.0,0.33521936588477874
+,Highway,,1.0,50.0,4.0,0.0,Low,Dry,Car,52.0,48.0,Daylight,0.0,0.3187981779648754
+Clear,Highway,Afternoon,1.0,80.0,5.0,0.0,Moderate,Dry,Car,38.0,35.0,Daylight,0.0,0.3079549929323013
+Rainy,Highway,Morning,1.0,50.0,3.0,1.0,,Under Construction,Motorcycle,27.0,22.0,Daylight,0.0,0.3419985871241587
+Clear,Highway,Night,2.0,60.0,1.0,,Moderate,Wet,Car,45.0,42.0,Daylight,0.0,0.2837219692382477
+Rainy,Highway,Night,2.0,80.0,3.0,0.0,Low,Dry,Car,41.0,33.0,Artificial Light,0.0,0.27958998683502306
+Clear,City Road,Afternoon,2.0,,2.0,0.0,Low,Icy,Car,53.0,51.0,Artificial Light,0.0,0.2875541582631354
+Clear,Highway,Morning,0.0,60.0,1.0,0.0,Moderate,Under Construction,Truck,42.0,38.0,Artificial Light,,0.2479660457751625
+Rainy,Mountain Road,Evening,0.0,212.0,10.0,0.0,Low,Wet,Truck,27.0,27.0,Artificial Light,0.0,0.2719814304187485
+Clear,Highway,Evening,2.0,,2.0,0.0,Moderate,,Car,59.0,57.0,Daylight,1.0,0.2896356957555642
+Rainy,Highway,Night,1.0,30.0,5.0,0.0,Low,Icy,Car,55.0,54.0,Daylight,0.0,0.35758468933389775
+Snowy,Highway,Morning,2.0,100.0,2.0,0.0,Moderate,Wet,Car,26.0,17.0,Daylight,0.0,0.24077865764470419
+Rainy,Highway,Afternoon,2.0,60.0,1.0,,Low,Icy,Car,57.0,55.0,Artificial Light,0.0,0.28995417280488595
+Clear,City Road,Afternoon,0.0,60.0,5.0,0.0,Moderate,Dry,Car,36.0,32.0,Artificial Light,0.0,0.30868793631075286
+Foggy,Highway,Night,1.0,60.0,1.0,0.0,Moderate,Icy,,60.0,52.0,No Light,1.0,0.2582757260047465
+Snowy,Highway,Afternoon,2.0,30.0,1.0,0.0,Moderate,Dry,Truck,39.0,37.0,Artificial Light,1.0,0.2995029481570408
+Foggy,City Road,Night,1.0,80.0,4.0,0.0,Moderate,Dry,Car,24.0,22.0,Daylight,0.0,0.2894663436914097
+Clear,Mountain Road,Evening,1.0,30.0,5.0,0.0,Moderate,Icy,Car,19.0,,Artificial Light,0.0,0.38850827120232184
+Rainy,City Road,Morning,0.0,80.0,5.0,0.0,Moderate,Dry,Car,69.0,65.0,Daylight,0.0,0.30429889264864995
+Rainy,Highway,Night,1.0,30.0,4.0,1.0,Low,Icy,Car,54.0,51.0,No Light,0.0,0.3870421198811158
+Rainy,City Road,Morning,2.0,50.0,4.0,0.0,Low,Dry,Car,58.0,58.0,Daylight,1.0,0.3414978118638461
+Clear,Highway,Evening,1.0,60.0,1.0,0.0,Moderate,Dry,Motorcycle,27.0,25.0,Daylight,,0.25924204128707123
+Stormy,City Road,Evening,1.0,100.0,4.0,,Low,Under Construction,Car,66.0,65.0,Artificial Light,0.0,0.29823159682598144
+Clear,Highway,Afternoon,2.0,181.0,10.0,0.0,Moderate,Under Construction,Car,62.0,54.0,,0.0,0.31680199276172705
+Foggy,City Road,Night,1.0,60.0,1.0,0.0,Low,Dry,Truck,32.0,26.0,Artificial Light,1.0,0.25270014153697307
+Stormy,Rural Road,Afternoon,2.0,30.0,2.0,0.0,Moderate,Icy,Motorcycle,47.0,43.0,Daylight,0.0,0.313840931323723
+Rainy,Rural Road,Evening,1.0,60.0,2.0,0.0,High,Dry,Car,20.0,18.0,Daylight,0.0,0.2725144378862424
+Clear,City Road,Evening,0.0,50.0,1.0,,Low,,Car,32.0,31.0,Artificial Light,1.0,0.2665858142779377
+Clear,Highway,Evening,1.0,80.0,2.0,0.0,Moderate,Under Construction,Car,24.0,21.0,No Light,0.0,0.2559955010956196
+Rainy,Highway,,1.0,,4.0,0.0,Low,Dry,Car,51.0,44.0,,0.0,0.2955748014580129
+Clear,Highway,Night,1.0,80.0,3.0,0.0,Low,Icy,Car,46.0,39.0,Daylight,0.0,0.2710521479144079
+Clear,Rural Road,Afternoon,1.0,50.0,3.0,1.0,Low,Icy,Car,,30.0,Daylight,0.0,0.3305495875563163
+Rainy,,Night,1.0,80.0,4.0,0.0,Low,Dry,,64.0,56.0,Daylight,1.0,0.29092848881691863
+Clear,Highway,Afternoon,1.0,60.0,4.0,0.0,Low,Wet,Car,33.0,24.0,Artificial Light,1.0,0.29394224972805066
+Clear,City Road,Morning,2.0,80.0,5.0,0.0,Moderate,Dry,Car,33.0,30.0,Artificial Light,0.0,0.3185619604346969
+Clear,City Road,Evening,0.0,60.0,5.0,0.0,Low,Dry,Truck,66.0,62.0,Daylight,1.0,0.319095623772897
+Rainy,,Evening,1.0,60.0,4.0,0.0,,Dry,Car,,62.0,Artificial Light,0.0,0.35490034161187906
+Clear,Highway,Afternoon,1.0,60.0,2.0,1.0,Moderate,Icy,Motorcycle,,54.0,Artificial Light,0.0,0.3565890665768139
+Snowy,Highway,Afternoon,1.0,,5.0,0.0,Low,Icy,Car,24.0,23.0,No Light,0.0,0.31432351123977126
+Foggy,Highway,Evening,,60.0,1.0,1.0,,Dry,Car,29.0,22.0,Artificial Light,0.0,0.2992491774838704
+Foggy,Rural Road,Afternoon,0.0,100.0,3.0,0.0,Low,Dry,Car,,54.0,Artificial Light,0.0,0.2786298741302872
+Rainy,Highway,Evening,2.0,,5.0,1.0,,Icy,Motorcycle,67.0,61.0,Artificial Light,1.0,0.38088060340588364
+Rainy,Highway,Evening,1.0,50.0,3.0,1.0,High,Icy,Car,61.0,60.0,Daylight,0.0,0.36207048057504426
+Clear,Highway,,2.0,60.0,1.0,1.0,Low,Dry,Car,36.0,27.0,Artificial Light,0.0,0.30986549716585915
+Clear,City Road,Evening,1.0,208.0,13.0,1.0,Moderate,Dry,Car,46.0,37.0,Daylight,,0.3722059292831301
+Clear,Highway,Evening,1.0,80.0,,0.0,Low,,Car,,53.0,Daylight,1.0,0.3092454619026537
+Rainy,City Road,Afternoon,0.0,60.0,2.0,0.0,Low,Icy,Car,65.0,62.0,Artificial Light,0.0,0.2737152584182584
+Rainy,Highway,Evening,1.0,50.0,1.0,0.0,Low,Dry,Truck,19.0,10.0,Artificial Light,1.0,0.24990150782659973
+Foggy,City Road,Morning,2.0,60.0,,0.0,Moderate,Wet,Car,46.0,41.0,Daylight,0.0,0.307875121432116
+Clear,Highway,Evening,1.0,,3.0,0.0,Low,Dry,Motorcycle,67.0,67.0,Artificial Light,0.0,0.2999086111699488
+Clear,City Road,Evening,0.0,30.0,1.0,0.0,Low,Wet,Car,33.0,25.0,Daylight,0.0,0.2603234750150893
+Rainy,City Road,Evening,2.0,50.0,1.0,0.0,Low,Dry,Car,53.0,44.0,Daylight,0.0,0.2740384690297828
+Rainy,Rural Road,Morning,,50.0,5.0,0.0,Moderate,Wet,Car,50.0,42.0,Artificial Light,0.0,0.32554414045565194
+,City Road,Morning,2.0,50.0,2.0,0.0,Low,Wet,Truck,,23.0,Daylight,0.0,0.26306294492307863
+Snowy,Highway,Morning,2.0,60.0,2.0,0.0,Low,Dry,Motorcycle,26.0,24.0,Artificial Light,0.0,0.28693755745809096
+Clear,Highway,Afternoon,2.0,100.0,4.0,0.0,Low,Dry,Motorcycle,56.0,52.0,Artificial Light,0.0,0.29293370202976066
+Clear,Highway,Morning,1.0,50.0,5.0,1.0,Low,Dry,Truck,51.0,47.0,Artificial Light,0.0,0.38379557968966416
+Clear,Rural Road,Morning,0.0,60.0,2.0,0.0,Low,Dry,Car,69.0,61.0,Artificial Light,,0.26475730717097484
+Rainy,Highway,Night,2.0,50.0,,0.0,Low,Wet,Car,43.0,34.0,Artificial Light,1.0,0.30647658829401014
+Foggy,City Road,Evening,2.0,50.0,3.0,0.0,Moderate,,Car,19.0,13.0,Artificial Light,0.0,0.29985218966537064
+Stormy,Highway,Afternoon,0.0,60.0,5.0,1.0,Moderate,,Truck,18.0,10.0,Artificial Light,0.0,0.343810277139533
+Snowy,Highway,Afternoon,1.0,100.0,2.0,0.0,Low,Icy,Car,34.0,27.0,Daylight,1.0,0.235350716052084
+Clear,Highway,Evening,1.0,80.0,3.0,0.0,Moderate,Dry,Bus,34.0,26.0,Artificial Light,0.0,0.26481994434776973
+Snowy,Highway,Afternoon,0.0,60.0,2.0,0.0,Low,Dry,Car,48.0,40.0,Artificial Light,0.0,0.2574719259474739
+Clear,City Road,Evening,1.0,100.0,5.0,0.0,Low,Wet,Car,24.0,15.0,Artificial Light,,0.27484580075548926
+Stormy,Highway,Night,,,4.0,0.0,Moderate,Dry,Car,30.0,24.0,Artificial Light,0.0,0.2903740144579961
+Snowy,Highway,Afternoon,1.0,50.0,4.0,0.0,,Wet,Car,49.0,44.0,Artificial Light,0.0,0.3156882806368804
+Snowy,Highway,Night,0.0,100.0,3.0,1.0,Low,Dry,Car,27.0,23.0,Artificial Light,,0.29213238395036584
+Clear,City Road,Evening,0.0,30.0,3.0,0.0,Moderate,Wet,Car,36.0,33.0,Daylight,,0.30311160068421605
+Stormy,Rural Road,Morning,1.0,60.0,3.0,0.0,Low,Wet,Car,39.0,31.0,Daylight,,0.2823920587952552
+Foggy,Rural Road,Afternoon,0.0,100.0,3.0,0.0,Low,Dry,Car,66.0,62.0,Daylight,0.0,0.25601891001796445
+Clear,City Road,Morning,0.0,30.0,1.0,0.0,Moderate,Icy,Car,34.0,27.0,,,0.26273952651227467
+Clear,City Road,Afternoon,2.0,60.0,2.0,0.0,Low,Dry,Bus,35.0,27.0,,1.0,0.27764509220605094
+Rainy,Rural Road,Afternoon,2.0,50.0,1.0,0.0,Low,Wet,Car,50.0,46.0,Artificial Light,0.0,0.2833433431924711
+Clear,Highway,Afternoon,1.0,60.0,,0.0,Low,Dry,Car,22.0,13.0,Artificial Light,0.0,0.2789308750558588
+Stormy,City Road,Afternoon,0.0,60.0,1.0,0.0,Low,Under Construction,Motorcycle,44.0,38.0,No Light,1.0,0.24452163444241104
+Clear,Rural Road,Afternoon,0.0,80.0,5.0,0.0,Moderate,Icy,Car,,,No Light,0.0,0.29479326589365573
+Rainy,City Road,Evening,0.0,,3.0,0.0,Moderate,Dry,Motorcycle,51.0,49.0,Daylight,1.0,0.27787800528049117
+Clear,Highway,,1.0,50.0,2.0,0.0,Moderate,Under Construction,Car,65.0,62.0,Artificial Light,0.0,0.29397559043290883
+Clear,Highway,Afternoon,0.0,80.0,1.0,0.0,Low,Dry,Car,50.0,50.0,,1.0,0.24318044355506166
+Snowy,,,0.0,80.0,2.0,0.0,Low,Under Construction,Car,35.0,29.0,Daylight,1.0,0.2412626853403111
+Clear,City Road,Evening,0.0,60.0,2.0,0.0,Low,Wet,Car,23.0,17.0,Daylight,0.0,0.2529371102259149
+Snowy,Rural Road,Afternoon,2.0,100.0,4.0,0.0,Low,Dry,Car,40.0,36.0,Daylight,1.0,0.28738293538328374
+Rainy,City Road,Morning,1.0,120.0,3.0,1.0,Low,Icy,,54.0,49.0,No Light,1.0,0.29593425629347325
+Rainy,Highway,Afternoon,0.0,80.0,5.0,0.0,Low,Dry,Truck,39.0,38.0,Artificial Light,0.0,0.30009859093184743
+Clear,Highway,Morning,,100.0,5.0,0.0,Low,Wet,Truck,69.0,61.0,Daylight,0.0,0.29254192617218955
+Rainy,City Road,Evening,1.0,100.0,2.0,0.0,Low,,,67.0,67.0,Artificial Light,0.0,0.2612830723329064
+Clear,City Road,Evening,,120.0,3.0,0.0,Low,,Car,25.0,17.0,Artificial Light,0.0,0.23003810400990704
+Clear,City Road,Evening,2.0,60.0,4.0,0.0,Moderate,,Car,66.0,60.0,Artificial Light,0.0,0.32393967376117055
+Clear,City Road,Afternoon,1.0,60.0,3.0,0.0,Low,Under Construction,Car,67.0,65.0,Artificial Light,0.0,0.30452067191727306
+Rainy,Highway,Night,1.0,100.0,1.0,0.0,Low,Under Construction,Car,53.0,53.0,Artificial Light,1.0,0.24072529451023428
+Clear,Rural Road,Afternoon,2.0,80.0,3.0,0.0,Moderate,,Car,36.0,31.0,Daylight,1.0,0.2840627580033407
+Clear,City Road,Night,1.0,50.0,5.0,0.0,,Dry,Car,25.0,17.0,Daylight,0.0,0.3168556019288283
+Rainy,Rural Road,Afternoon,1.0,100.0,1.0,0.0,Low,Dry,Truck,,16.0,Daylight,1.0,0.18094285608803662
+Stormy,Highway,Night,1.0,50.0,4.0,1.0,Low,Under Construction,Motorcycle,68.0,64.0,Artificial Light,0.0,0.37399241224454105
+Clear,Highway,Afternoon,2.0,80.0,2.0,0.0,Moderate,,Bus,24.0,22.0,Daylight,0.0,0.27040621175681984
+Rainy,Highway,Morning,0.0,30.0,1.0,0.0,High,Dry,Car,69.0,62.0,Artificial Light,0.0,0.27488182855144283
+Clear,City Road,Afternoon,1.0,60.0,2.0,0.0,Low,Under Construction,Car,57.0,55.0,Artificial Light,0.0,0.2853505857562202
+Rainy,Highway,Night,2.0,80.0,3.0,0.0,Low,,Car,53.0,51.0,Artificial Light,0.0,0.296167833310564
+Foggy,Rural Road,Evening,0.0,50.0,1.0,0.0,Low,Dry,Car,23.0,17.0,Daylight,0.0,0.24515500315414088
+Rainy,City Road,Afternoon,1.0,80.0,1.0,0.0,Low,Wet,Car,43.0,42.0,Artificial Light,1.0,0.2510244366448672
+Snowy,Rural Road,Night,1.0,80.0,4.0,0.0,Low,Under Construction,Car,48.0,39.0,Artificial Light,0.0,0.28330859358866123
+Clear,Highway,,0.0,50.0,4.0,0.0,Low,Wet,Car,58.0,56.0,Daylight,0.0,0.3126763905414456
+Stormy,City Road,Afternoon,1.0,100.0,2.0,0.0,High,Wet,Car,68.0,62.0,Daylight,0.0,0.2492152237576279
+Clear,City Road,Afternoon,0.0,100.0,5.0,0.0,Low,Icy,Car,33.0,31.0,Artificial Light,0.0,0.2801104249871766
+Clear,Highway,Afternoon,2.0,80.0,4.0,0.0,Low,Under Construction,Truck,31.0,27.0,Artificial Light,0.0,0.30009812901510197
+Foggy,Highway,Afternoon,1.0,120.0,2.0,1.0,Low,Dry,Bus,46.0,40.0,Daylight,0.0,0.2753888873814495
+Snowy,City Road,Evening,2.0,,5.0,0.0,Moderate,Dry,Bus,19.0,17.0,,0.0,0.3228613501603864
+,,Morning,0.0,60.0,1.0,1.0,Low,Icy,Truck,28.0,20.0,,0.0,0.28447607826556187
+Clear,City Road,Afternoon,1.0,60.0,5.0,0.0,Low,Dry,Truck,23.0,14.0,Daylight,0.0,0.3061738775810074
+Rainy,City Road,,0.0,80.0,4.0,0.0,Moderate,Icy,Car,33.0,30.0,Daylight,1.0,0.2781779392688527
+Rainy,Highway,Night,1.0,60.0,5.0,0.0,Moderate,Dry,Car,27.0,22.0,Artificial Light,1.0,0.3158380835697488
+,,Evening,,60.0,2.0,0.0,,Dry,Car,32.0,26.0,No Light,0.0,0.26841646418568144
+Foggy,Highway,Evening,1.0,60.0,3.0,0.0,Moderate,Icy,Car,61.0,56.0,Artificial Light,0.0,0.2962317486795026
+Foggy,City Road,Afternoon,0.0,100.0,2.0,0.0,Moderate,Under Construction,Car,37.0,37.0,Artificial Light,0.0,0.2385338027913425
+Stormy,City Road,,0.0,80.0,1.0,0.0,Moderate,Icy,Car,57.0,48.0,Artificial Light,1.0,0.22698674672687036
+Rainy,Highway,Afternoon,1.0,80.0,1.0,0.0,High,Dry,Truck,24.0,23.0,No Light,0.0,0.2444329012521759
+Clear,City Road,Afternoon,1.0,50.0,5.0,0.0,Moderate,Dry,,25.0,18.0,Daylight,0.0,0.3189247305106088
+Clear,Highway,Afternoon,1.0,100.0,2.0,1.0,Moderate,Wet,Car,56.0,51.0,Artificial Light,0.0,0.2967647449877396
+Clear,City Road,Afternoon,2.0,100.0,3.0,0.0,Low,Dry,Car,21.0,12.0,Artificial Light,0.0,0.2547449000746849
+Rainy,Highway,Afternoon,2.0,100.0,2.0,0.0,Low,Wet,Car,,60.0,Daylight,0.0,0.3000269527728051
+Clear,Highway,Evening,0.0,178.0,,0.0,Low,Wet,Car,36.0,35.0,,0.0,0.19455799321062794
+Clear,City Road,Afternoon,2.0,50.0,,0.0,Moderate,Dry,Car,20.0,19.0,Daylight,0.0,0.31505038989394396
+Foggy,City Road,Morning,1.0,80.0,3.0,0.0,Moderate,Dry,Car,21.0,16.0,Artificial Light,0.0,0.2665173321928489
+Clear,Highway,Morning,1.0,100.0,2.0,0.0,Moderate,Wet,Car,56.0,48.0,Artificial Light,1.0,0.24091389160920915
+Snowy,Highway,Morning,0.0,30.0,2.0,1.0,Moderate,Under Construction,,,39.0,Artificial Light,0.0,0.3369668055763782
+Snowy,City Road,Evening,1.0,50.0,3.0,0.0,,Wet,Car,18.0,12.0,Artificial Light,0.0,0.28716368467054615
+Rainy,Rural Road,Afternoon,0.0,,4.0,0.0,Moderate,Dry,Car,53.0,45.0,Daylight,0.0,0.28185793662762226
+Rainy,City Road,Evening,0.0,60.0,,1.0,Low,Under Construction,Car,33.0,27.0,Artificial Light,,0.32625629842442233
+Clear,Highway,Night,2.0,30.0,4.0,0.0,Low,Dry,Car,23.0,15.0,Daylight,0.0,0.3286399810408951
+Rainy,Rural Road,Evening,2.0,60.0,4.0,0.0,Low,Dry,Motorcycle,52.0,46.0,Daylight,1.0,0.31908275294550326
+Foggy,Highway,Evening,,30.0,4.0,1.0,High,Dry,Car,,34.0,Artificial Light,,0.3703799244026083
+Foggy,Highway,Afternoon,2.0,60.0,3.0,0.0,Low,Dry,Car,25.0,19.0,Artificial Light,0.0,0.29401497722256875
+Clear,Highway,Afternoon,1.0,60.0,4.0,0.0,Low,Dry,Motorcycle,29.0,21.0,Artificial Light,0.0,0.294623686648212
