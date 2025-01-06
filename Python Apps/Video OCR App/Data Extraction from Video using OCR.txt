@@ -1,0 +1,6 @@
+Data Extraction from Video using OCR
+Posted 2 days ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+We are seeking a skilled freelancer to assist in extracting data from a large 20GB video file recorded on an iPhone. The data extraction process will require the use of Optical Character Recognition (OCR) technology to accurately capture and organize the information in a usable format, such as Excel. The ideal candidate should have experience in video processing and OCR applications to ensure efficient and accurate data retrieval. If you are detail-oriented and have the necessary skills, we would love to hear from you.
