@@ -1,0 +1,4 @@
+<root>
+    <child name="child1">Value1</child>
+    <child name="child2">Value2</child>
+</root>
