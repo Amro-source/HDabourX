@@ -1,0 +1,17 @@
+import socket
+
+def send_image_request(image_name):
+    HOST = '127.0.0.1'  # Localhost
+    PORT = 12345         # Port used by the C++ application
+
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.connect((HOST, PORT))
+        s.sendall(image_name.encode())
+        
+        data = s.recv(1024)
+        print(f"Received: {data.decode()}")
+
+if __name__ == "__main__":
+    # Example: Request processing of a specific image
+    image_name = "input.jpeg"  # Replace with actual image file name
+    send_image_request(image_name)
