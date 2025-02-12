@@ -1,0 +1,42 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from keras.models import Sequential
+from keras.layers import LSTM, Dense
+
+# Load the CSV file
+df = pd.read_csv('DailyDelhiClimateTrain.csv')
+
+# Drop the date column
+df = df.drop('date', axis=1)
+
+# Define the feature columns
+feature_cols = ['meantemp', 'humidity', 'wind_speed']
+
+# Define the target column
+target_col = 'meanpressure'
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(df[feature_cols], df[target_col], test_size=0.2, random_state=42)
+
+# Create a scaler object
+scaler = MinMaxScaler()
+
+# Fit the scaler to the training data and transform both the training and testing data
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+# Reshape the data for LSTM
+X_train_scaled = X_train_scaled.reshape((X_train_scaled.shape[0], 1, X_train_scaled.shape[1]))
+X_test_scaled = X_test_scaled.reshape((X_test_scaled.shape[0], 1, X_test_scaled.shape[1]))
+
+# Create the LSTM model
+model = Sequential()
+model.add(LSTM(50, input_shape=(1, X_train_scaled.shape[2])))
+model.add(Dense(1))
+model.compile(loss='mean_squared_error', optimizer='adam')
+
+# Train the model
+model.fit(X_train_scaled, y_train, epochs=100, batch_size=32, verbose=1)
+
+# Make predictions
+y_pred = model.predict(X_test_scaled)
