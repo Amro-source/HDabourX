@@ -1,0 +1,63 @@
+import torch
+import torch.nn as nn
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Set random seed for reproducibility
+torch.manual_seed(0)
+
+# Generate some input data
+def generate_input_data(sequence_length, num_samples):
+    input_data = []
+    for _ in range(num_samples):
+        x = np.sin(np.arange(sequence_length)) + 0.2 * np.random.randn(sequence_length)
+        input_data.append(x)
+    return np.array(input_data)
+
+sequence_length = 10
+num_samples = 100
+input_data = generate_input_data(sequence_length, num_samples)
+
+# Convert input data to PyTorch tensor
+input_tensor = torch.tensor(input_data, dtype=torch.float32).unsqueeze(2)
+
+# Define RNN model
+rnn = nn.RNN(input_size=1, hidden_size=50, num_layers=1, batch_first=True)
+fc = nn.Linear(50, 1)
+
+# Initialize optimizer and loss function
+criterion = nn.MSELoss()
+optimizer = torch.optim.Adam(list(rnn.parameters()) + list(fc.parameters()), lr=0.001)
+
+# Train model
+for epoch in range(100):
+    optimizer.zero_grad()
+    h0 = torch.zeros(1, input_tensor.size(0), 50).to(input_tensor.device)
+    out, _ = rnn(input_tensor, h0)
+    out = fc(out[:, -1, :])
+    loss = criterion(out, torch.tensor(input_data[:, -1], dtype=torch.float32).unsqueeze(1))
+    loss.backward()
+    optimizer.step()
+    print(f'Epoch {epoch+1}, Loss: {loss.item()}')
+
+# Use tracing to convert model to TorchScript
+input_tensor_trace = torch.randn(1, sequence_length, 1)
+h0_trace = torch.zeros(1, 1, 50).to(input_tensor_trace.device).detach()
+traced_script_module = torch.jit.trace(lambda x: fc(rnn(x, h0_trace)[0][:, -1, :]), input_tensor_trace)
+
+# Save TorchScript model
+traced_script_module.save("rnn_model.pt")
+
+# Load TorchScript model
+loaded_script_module = torch.jit.load("rnn_model.pt")
+
+# Evaluate TorchScript model
+input_tensor_eval = torch.tensor(input_data, dtype=torch.float32).unsqueeze(2)
+predicted_outputs = loaded_script_module(input_tensor_eval).detach().numpy()
+
+# Plot outputs
+plt.figure(figsize=(10, 6))
+plt.plot(input_data[:, -1], label='Actual')
+plt.plot(predicted_outputs.flatten(), label='Predicted')
+plt.legend()
+plt.show()
