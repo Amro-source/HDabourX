@@ -1,0 +1,26 @@
+Image 0: IoU = 0.9824
+Image 1: IoU = 0.9798
+Image 2: IoU = 0.9800
+Image 3: IoU = 0.9795
+Image 4: IoU = 0.9790
+Image 5: IoU = 0.9697
+Image 6: IoU = 0.9697
+Image 7: IoU = 0.9704
+Image 8: IoU = 0.9724
+Image 9: IoU = 0.9727
+Image 10: IoU = 0.9541
+Image 11: IoU = 0.9748
+Image 12: IoU = 0.9809
+Image 13: IoU = 0.9796
+Image 14: IoU = 0.9794
+Image 15: IoU = 0.9725
+Image 16: IoU = 0.9577
+Image 17: IoU = 0.9720
+Image 18: IoU = 0.9822
+Image 19: IoU = 0.9722
+
+--- Summary ---
+Mean IoU: 0.9740
+Std Dev IoU: 0.0074
+Min IoU: 0.9541
+Max IoU: 0.9824
