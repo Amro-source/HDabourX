@@ -1,0 +1,4 @@
+python generate_classes_json_commandline.py --input "./Strawberry Disease Detection Dataset/train" --output "./classes2.json"
+
+
+python generate_masks_and_labels.py --input "./Strawberry Disease Detection Dataset/train" --output_masks ./masks --output_labels ./labels --class_mapping ./classes.json
