@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Girlfriend Bot Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="chat-container">
+        <div id="chat-box">
+            {% for msg in chat_history %}
+                {% if msg.sender == 'user' %}
+                    <div class="message user-message">
+                        <span class="text">{{ msg.message }}</span>
+                    </div>
+                {% else %}
+                    <div class="message bot-message">
+                        <img src="{{ url_for('static', filename='bot_icon.jpg') }}" class="icon">
+                        <span class="text">{{ msg.message }}</span>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#send-btn').click(function() {
+                var message = $('#user-input').val();
+                if (message.trim() === '') return;
+
+                // Add user message to chat
+                $('#chat-box').append('<div class="message user-message"><span class="text">' + message + '</span></div>');
+                $('#user-input').val('');
+                scrollToBottom();
+
+                // Send to server
+                $.ajax({
+                    type: 'POST',
+                    url: '/send_message',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ message: message }),
+                    success: function(response) {
+                        // Add bot message with icon
+                        $('#chat-box').append('<div class="message bot-message"><img src="/static/bot_icon.jpg" class="icon"><span class="text">' + response.bot_message + '</span></div>');
+                        scrollToBottom();
+                    }
+                });
+            });
+
+            // Enter key to send
+            $('#user-input').keypress(function(e) {
+                if (e.which == 13) {
+                    $('#send-btn').click();
+                }
+            });
+
+            function scrollToBottom() {
+                $('#chat-box').scrollTop($('#chat-box')[0].scrollHeight);
+            }
+            scrollToBottom();  // Initial scroll
+        });
+    </script>
+</body>
+</html>
